@@ -51,8 +51,3 @@ if = {
 }
 
 # Politics
-create_country_leader = {
-	name = "Jigme Wangchuck"
-	picture = "jigme_wangchuck.tga"
-	ideology = authoritarian
-}

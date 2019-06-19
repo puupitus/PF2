@@ -53,9 +53,4 @@ if = {
 # Politics
 
 # Leaders
-
-create_country_leader = {
-	name = "Sir Thomas Alexander Vans Best"
-	picture = "thomas_alexander_vans_best.tga"
-	ideology = authoritarian
-}
+ 

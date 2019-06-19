@@ -53,28 +53,15 @@ if = {
 # Politics
 
 set_politics = {
-
-parties = {
-
-syncretism = { popularity = 0 }
-syndicalism = { popularity = 0	}
-communism = { popularity = 0 }
-socialism = { popularity = 0 }
-social_democracy = { popularity = 0	}
-liberalism = { popularity = 0	}
-centrism = { popularity = 0	}
-conservatism = { popularity = 0	}
-christian_democracy = { popularity = 0 }
-authoritarianism = { popularity = 100	}
-fascism = { popularity = 0 }
-nazism = { popularity = 0	}
-
-}
-
-	ruling_party = authoritarianism
+	ruling_party = autocratic
 	last_election = "1928.5.15"
 	election_frequency = 48
 	elections_allowed = no
+}
+set_popularities = {
+	socialism = 0
+	democratic = 0
+	autocratic = 100
 }
 
 # Leaders
@@ -82,20 +69,15 @@ nazism = { popularity = 0	}
 create_country_leader = {
 	name = "Muhammad Nadir Shah"
 	picture = "muhammad_nadir_shah.tga"
-	ideology = authoritarian
+	ideology = socialist
 }
 create_country_leader = {
 	name = "Muhammad Nadir Shah"
 	picture = "muhammad_nadir_shah.tga"
-	ideology = fascist
+	ideology = democrat
 }
 create_country_leader = {
 	name = "Muhammad Nadir Shah"
 	picture = "muhammad_nadir_shah.tga"
-	ideology = syncretist
-}
-create_country_leader = {
-	name = "Muhammad Nadir Shah"
-	picture = "muhammad_nadir_shah.tga"
-	ideology = nazi
+	ideology = autocrat
 }

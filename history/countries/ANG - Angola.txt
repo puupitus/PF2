@@ -53,9 +53,3 @@ if = {
 # Politics
 
 # Leaders
-
-create_country_leader = {
-	name = "Filomeno da Câmara Melo Cabral"
-	picture = "filomeno_da_camara_melo_cabral.tga"
-	ideology = authoritarian
-}

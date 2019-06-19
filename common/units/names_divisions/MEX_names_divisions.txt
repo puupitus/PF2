@@ -87,7 +87,7 @@ MEX_INF_03 = {
 	for_countries = { MEX }
 
 	can_use = {
-			OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+			OR = { has_government = socialism }
 	
 	}
 

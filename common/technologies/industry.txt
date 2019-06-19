@@ -241,7 +241,7 @@ technologies = {
 
 			modifier = {
 				factor = 0
-				NOT = { OR = { has_government = fascism has_government = nazism has_government = syncretism } }
+				NOT = { OR = { has_government = autocratic } }
 			}
 		}
 		
@@ -272,7 +272,7 @@ technologies = {
 
 			modifier = {
 				factor = 0
-				NOT = { OR = { has_government = fascism has_government = nazism has_government = syncretism } }
+				NOT = { OR = { has_government = autocratic } }
 			}
 		}
 		

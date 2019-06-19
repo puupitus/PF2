@@ -262,7 +262,7 @@ tests = {
             has_global_flag = scw_over
             any_country = {
                 original_tag = SPR
-                OR = { has_government = fascism has_government = nazism has_government = syncretism }
+                OR = { has_government = autocratic }
             }
         }
 
@@ -270,7 +270,7 @@ tests = {
             has_global_flag = scw_over
             any_country = {
                 original_tag = SPR
-                NOT = { OR = { has_government = fascism has_government = nazism has_government = syncretism } }
+                NOT = { OR = { has_government = autocratic } }
             }
         }
     }
@@ -350,7 +350,7 @@ tests = {
             any_country = {
                 original_tag = FRA
                 is_subject_of = GER
-                OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+                OR = { has_government = socialism }
             }
         }
     }
@@ -363,7 +363,7 @@ tests = {
             any_country = {
                 original_tag = FRA
                 is_subject_of = GER
-                communism > 0.5
+                socialism > 0.5
             }
         }
     }

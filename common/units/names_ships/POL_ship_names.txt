@@ -110,7 +110,7 @@ PLA_THEME_KINGS = {
 	for_countries = { PLA }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -142,7 +142,7 @@ PLA_THEME_HISTORICAL_FIGURES = {
 	for_countries = { PLA }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship

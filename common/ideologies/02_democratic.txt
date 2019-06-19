@@ -1,10 +1,10 @@
 ideologies = {
 
-	liberalism = {
+	democratic = {
 
 		types = {
 
-			liberal = {
+			democrat = {
 			}
 		}
 
@@ -17,7 +17,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 
-		color = { 255 216 0 }
+		color = { 0 38 255 }
 
 		rules = {
 			can_declare_war_on_same_ideology = no

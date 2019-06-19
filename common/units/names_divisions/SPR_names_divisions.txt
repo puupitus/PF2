@@ -18,26 +18,26 @@
 # unordered - It's a list of historical division names that did not have a number. Regardless if such names happened in history or not
 #             this option is available here mainly for a mods.
 #
-# ordered - Is a list of all historical names. 
-#           Numbers must start from 1 and up. 
+# ordered - Is a list of all historical names.
+#           Numbers must start from 1 and up.
 #           Numbers can't repeat in one scope.
 #           If you script the name for this group, at the same number (for example in a mod in another file), the name will be override.
 #           All arguments between the brackets must be separated by spaces. Each argument is wrapped in "quotas".
-#           1st argument = The name. It must contain either: 
+#           1st argument = The name. It must contain either:
 #                          %d (for decimal number placement)
 #                          %s (for string number placement - ROMAN numbers like XIV).
 #           2nd argument is optional = A localizable text describing this historical division. The text will be visible in the tooltip
 #                                      where you choose the historical division name.
 #           3rd argument is optional = An URL preferably pointing to the WIKI. It's a future feature that is not currently working in
 #                                      the current game version.
-SPR_INF_01 = 
+SPR_INF_01 =
 {
 	name = "Republican Infantry"
 
-	for_countries = { SPR }
+	for_countries = { SPR CAT }
 
-	can_use = { 
-		NOT = { OR = { has_government = fascism has_government = nazism has_government = syncretism } } 
+	can_use = {
+		NOT = { OR = { has_government = autocratic } }
 	}
 
 	division_types = { "infantry" }
@@ -47,7 +47,7 @@ SPR_INF_01 =
 
 	fallback_name = "%da División de Infantería"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -70,15 +70,15 @@ SPR_INF_01 =
 		17 = { "%da División de Infantería" }
 		18 = { "%da División de Infantería" }
 		19 = { "%da División de Infantería" }
-		20 = { "%da División de Infantería" }		
+		20 = { "%da División de Infantería" }
 	}
 }
 
-SPR_CAV_01 = 
+SPR_CAV_01 =
 {
 	name = "Cavalry Division"
 
-	for_countries = { SPR }
+	for_countries = { SPR CAT }
 
 	can_use = { always = yes }
 
@@ -89,7 +89,7 @@ SPR_CAV_01 =
 
 	fallback_name = "%da División de Caballería"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -106,11 +106,11 @@ SPR_CAV_01 =
 	}
 }
 
-SPR_MOT_01 = 
+SPR_MOT_01 =
 {
 	name = "Motorized Division"
 
-	for_countries = { SPR }
+	for_countries = { SPR CAT }
 
 	can_use = { always = yes }
 
@@ -121,7 +121,7 @@ SPR_MOT_01 =
 
 	fallback_name = "%da División Motorizada"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -138,11 +138,11 @@ SPR_MOT_01 =
 	}
 }
 
-SPR_MEC_01 = 
+SPR_MEC_01 =
 {
 	name = "Mechanized Division"
 
-	for_countries = { SPR }
+	for_countries = { SPR CAT }
 
 	can_use = { always = yes }
 
@@ -153,7 +153,7 @@ SPR_MEC_01 =
 
 	fallback_name = "%da División Mecanizada"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -170,11 +170,11 @@ SPR_MEC_01 =
 	}
 }
 
-SPR_ARM_01 = 
+SPR_ARM_01 =
 {
 	name = "Armored Division"
 
-	for_countries = { SPR }
+	for_countries = { SPR CAT }
 
 	can_use = { always = yes }
 
@@ -185,7 +185,7 @@ SPR_ARM_01 =
 
 	fallback_name = "%da División Blindada"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -202,11 +202,11 @@ SPR_ARM_01 =
 	}
 }
 
-SPR_PAR_01 = 
+SPR_PAR_01 =
 {
 	name = "Airborne Division"
 
-	for_countries = { SPR }
+	for_countries = { SPR CAT }
 
 	can_use = { always = yes }
 
@@ -217,7 +217,7 @@ SPR_PAR_01 =
 
 	fallback_name = "%da División Aerotransportada"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -234,11 +234,11 @@ SPR_PAR_01 =
 	}
 }
 
-SPR_MAR_01 = 
+SPR_MAR_01 =
 {
 	name = "Marine Division"
 
-	for_countries = { SPR }
+	for_countries = { SPR CAT }
 
 	can_use = { always = yes }
 
@@ -249,7 +249,7 @@ SPR_MAR_01 =
 
 	fallback_name = "%da Div. de Infantería de Marina"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -266,11 +266,11 @@ SPR_MAR_01 =
 	}
 }
 
-SPR_MNT_01 = 
+SPR_MNT_01 =
 {
 	name = "Mountain Division"
 
-	for_countries = { SPR }
+	for_countries = { SPR CAT }
 
 	can_use = { always = yes }
 
@@ -281,7 +281,7 @@ SPR_MNT_01 =
 
 	fallback_name = "%da División de Montaña"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -298,11 +298,11 @@ SPR_MNT_01 =
 	}
 }
 
-SPR_GAR_01 = 
+SPR_GAR_01 =
 {
 	name = "Garrison Division"
 
-	for_countries = { SPR }
+	for_countries = { SPR CAT }
 
 	can_use = { always = yes }
 
@@ -313,7 +313,7 @@ SPR_GAR_01 =
 
 	fallback_name = "%da División de Guarnición"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -338,14 +338,14 @@ SPR_GAR_01 =
 	}
 }
 
-SPA_INF_01 = 
+SPA_INF_01 =
 {
 	name = "Nationalist Infantry"
 
-	for_countries = { SPR }
+	for_countries = { SPR CAT }
 
-	can_use = { 
-		OR = { has_government = fascism has_government = nazism has_government = syncretism } 
+	can_use = {
+		OR = { has_government = autocratic }
 	}
 
 	division_types = { "infantry" }
@@ -355,11 +355,11 @@ SPA_INF_01 =
 
 	fallback_name = "%da División de Infantería"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		11 = { "%da División de Infantería" }			# Re-ordered to be consistent with Nationalist Spain division naming 
+		11 = { "%da División de Infantería" }			# Re-ordered to be consistent with Nationalist Spain division naming
 		12 = { "%da División de Infantería" }
 		21 = { "%da División de Infantería" }
 		22 = { "%da División de Infantería" }
@@ -378,7 +378,7 @@ SPA_INF_01 =
 		91 = { "%da División de Infantería" }
 		92 = { "%da División de Infantería" }
 		101 = { "%da División de Infantería" }
-		102 = { "%da División de Infantería" }		
+		102 = { "%da División de Infantería" }
 		13 = { "%da División de Infantería" }
 		23 = { "%da División de Infantería" }
 		43 = { "%da División de Infantería" }
@@ -416,4 +416,3 @@ SPA_INF_01 =
 		76 = { "%da División de Infantería" }
 	}
 }
-

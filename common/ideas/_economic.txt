@@ -407,9 +407,8 @@ ideas = {
 			available = {
 				has_war = yes
 				OR = {
-					has_government = nazism
-					has_government = fascism
-					has_government = communism
+					has_government = socialism
+					has_government = autocratic
 				}
 				OR = {
 					has_idea = war_economy

@@ -1,4 +1,6 @@
 
+music_station = "base_music"
+
 music = {
 	song = "maintheme"
 	chance = {
@@ -53,7 +55,7 @@ music = {
 			factor = 2
 
 			has_war = no
-
+			has_government = democratic
 		}
 	}
 }
@@ -66,7 +68,7 @@ music = {
 			factor = 2
 
 			has_war = no
-
+			has_government = democratic
 		}
 	}
 }
@@ -79,7 +81,7 @@ music = {
 			factor = 2
 
 			has_war = no
-
+			has_government = autocratic
 		}
 	}
 }
@@ -92,7 +94,7 @@ music = {
 			factor = 2
 
 			has_war = no
-
+			has_government = autocratic
 		}
 	}
 }
@@ -131,7 +133,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-
+			has_government = autocratic
 		}
 	}
 }
@@ -144,7 +146,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-
+			has_government = autocratic
 		}
 	}
 }
@@ -157,7 +159,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-
+			has_government = autocratic
 		}
 	}
 }
@@ -170,7 +172,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-
+			has_government = autocratic
 		}
 	}
 }
@@ -183,7 +185,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-
+			has_government = democratic
 		}
 	}
 }
@@ -196,7 +198,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-
+			has_government = democratic
 		}
 	}
 }
@@ -209,20 +211,20 @@ music = {
 			factor = 2
 
 			has_war = no
-
+			has_government = socialism
 		}
 	}
 }
 
 music = {
 	song = "comintern_peace_2"
-
+	
 	chance = {
 		modifier = {
 			factor = 2
 
 			has_war = no
-
+			has_government = socialism
 		}
 	}
 }
@@ -235,7 +237,7 @@ music = {
 			factor = 2
 
 			has_war = no
-
+			has_government = socialism
 		}
 	}
 }
@@ -249,7 +251,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-
+			has_government = socialism
 		}
 	}
 }
@@ -262,7 +264,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-
+			has_government = socialism
 		}
 	}
 }
@@ -275,7 +277,7 @@ music = {
 			factor = 2
 
 			has_war = yes
-
+			has_government = socialism
 		}
 	}
 }

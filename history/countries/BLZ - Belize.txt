@@ -51,9 +51,3 @@ if = {
 }
 
 # Politics
-
-create_country_leader = {
-	name = "Sir John Alder Burdon"
-	picture = "john_alder_burdon.tga"
-	ideology = authoritarian
-}

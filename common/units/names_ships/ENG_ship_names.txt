@@ -6,7 +6,7 @@ ENG_DD_HISTORICAL = {
 	for_countries = { ENG }
 
 	can_use = {
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -64,7 +64,7 @@ ENG_DE_HISTORICAL = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -102,7 +102,7 @@ ENG_CL_HISTORICAL = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -133,7 +133,7 @@ ENG_CLAA_HISTORICAL = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -160,7 +160,7 @@ ENG_CA_HISTORICAL = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -187,7 +187,7 @@ ENG_MINELAYERS_HISTORICAL = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -211,7 +211,7 @@ ENG_BB_HISTORICAL = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -235,7 +235,7 @@ ENG_BC_HISTORICAL = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -257,7 +257,7 @@ ENG_CV_HISTORICAL = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -281,7 +281,7 @@ ENG_CVL_HISTORICAL = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -306,7 +306,7 @@ ENG_SS_HISTORICAL = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -350,7 +350,7 @@ ENG_COUNTIES = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -368,7 +368,7 @@ ENG_CITIES = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -386,7 +386,7 @@ ENG_COLONIES = {
 	for_countries = { ENG }
 
 	can_use = { 
-		not = { OR = { has_government = communism  has_government = syndicalism has_government = socialism } }
+		not = { OR = { has_government = socialism } }
 	}
 
 	type = ship
@@ -408,7 +408,7 @@ ENG_DD_COMMUNIST = {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship
@@ -466,7 +466,7 @@ ENG_DE_COMMUNISM = {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship
@@ -504,7 +504,7 @@ ENG_CL_COMMUNISM = {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship
@@ -535,7 +535,7 @@ ENG_CLAA_COMMUNISM = {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship
@@ -562,7 +562,7 @@ ENG_CA_COMMUNISM = {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship
@@ -589,7 +589,7 @@ ENG_MINELAYERS_COMMUNISM = {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship
@@ -613,7 +613,7 @@ ENG_BB_COMMUNISM = {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship
@@ -637,7 +637,7 @@ ENG_BC_COMMUNISM = {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship
@@ -659,7 +659,7 @@ ENG_CV_COMMUNISM = {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship
@@ -683,7 +683,7 @@ ENG_CVL_COMMUNISM = {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship
@@ -708,7 +708,7 @@ ENG_SS_COMMUNISM= {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship
@@ -752,7 +752,7 @@ ENG_COUNTIES_COMMUNISM = {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship
@@ -770,7 +770,7 @@ ENG_CITIES_COMMUNISM = {
 	for_countries = { ENG }
 
 	can_use = { 
-		OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+		OR = { has_government = socialism }
 	}
 
 	type = ship

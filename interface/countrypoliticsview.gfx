@@ -422,13 +422,13 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_ideology_communism_group"
-		texturefile = "gfx/interface/ideologies/communism_group.dds"
+		name = "GFX_ideology_socialism_group"
+		texturefile = "gfx/interface/ideologies/socialism_group.dds"
 	}
 
 	spriteType = {
-		name = "GFX_ideology_fascism_group"
-		texturefile = "gfx/interface/ideologies/fascism_group.dds"
+		name = "GFX_ideology_autocratic_group"
+		texturefile = "gfx/interface/ideologies/autocratic_group.dds"
 	}
 
 	spriteType = {
@@ -618,67 +618,32 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate_blendframes.lua"
 	}
 	spriteType = {
-		name = "GFX_TRTW_integrated_autonomy_icon"
+		name = "GFX_PF_integrated_autonomy_icon"
 		textureFile = "gfx/interface/autonomy/autonomy_reichskommissariat_icon.dds"
 	}
 
 	spriteType = {
-		name = "GFX_TRTW_colony_icon"
+		name = "GFX_PF_colony_icon"
 		textureFile = "gfx/interface/autonomy/autonomy_reichsprotectorate_icon.dds"
 	}
 
 	spriteType = {
-		name = "GFX_TRTW_client_state_icon"
+		name = "GFX_PF_client_state_icon"
 		textureFile = "gfx/interface/autonomy/autonomy_satellite.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_communism_group"
-		texturefile = "gfx/interface/ideologies/communism_group.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_syndicalism_group"
-		texturefile = "gfx/interface/ideologies/syndicalism_group.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_socialism_group"
 		texturefile = "gfx/interface/ideologies/socialism_group.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_social_democracy_group"
-		texturefile = "gfx/interface/ideologies/social_democracy_group.dds"
+		name = "GFX_ideology_democratic_group"
+		texturefile = "gfx/interface/ideologies/democratic_group.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_liberalism_group"
-		texturefile = "gfx/interface/ideologies/liberalism_group.dds"
+		name = "GFX_ideology_autocratic_group"
+		texturefile = "gfx/interface/ideologies/autocratic_group.dds"
 	}
-	spriteType = {
-		name = "GFX_ideology_centrism_group"
-		texturefile = "gfx/interface/ideologies/centrism_group.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_conservatism_group"
-		texturefile = "gfx/interface/ideologies/conservatism_group.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_christian_democracy_group"
-		texturefile = "gfx/interface/ideologies/christian_democracy_group.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_authoritarianism_group"
-		texturefile = "gfx/interface/ideologies/authoritarianism_group.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_syncretism_group"
-		texturefile = "gfx/interface/ideologies/syncretism_group.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_fascism_group"
-		texturefile = "gfx/interface/ideologies/fascism_group.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_nazism_group"
-		texturefile = "gfx/interface/ideologies/nazism_group.dds"
-	}
+
 	pieChartType = {
 		name = "GFX_political_chart_huge"
 		size = 70

@@ -53,9 +53,3 @@ if = {
 # Politics
 
 # Leaders
-
-create_country_leader = {
-	name = "Sir Bede Clifford"
-	picture = "bede_clifford.tga"
-	ideology = authoritarian
-}

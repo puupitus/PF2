@@ -9,8 +9,8 @@ ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
-	color = rgb { 0 127 70 }
-	color_ui = rgb { 0 127 70 }
+	color = rgb { 30 157 90 }
+	color_ui = rgb { 30 157 90 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -711,4 +711,60 @@ RFE = {
 DAN = {
 	color = rgb { 175 25 25 }
 	color_ui = rgb { 175 25 25 }
+}
+CAT = {
+	color = rgb { 211 186 61 }
+	color_ui = rgb { 211 186 61 }
+}
+KCH = {
+	color = rgb { 76 140 165 }
+	color_ui = rgb { 76 140 165 }
+}
+GIL = {
+	color = rgb { 65 204 63 }
+	color_ui = rgb { 65 204 63 }
+}
+NAP = {
+	color = rgb { 229 43 43 }
+	color_ui = rgb { 229 43 43 }
+}
+DNE = {
+	color = rgb { 66 168 23 }
+	color_ui = rgb { 66 168 23 }
+}
+PAP = {
+	color = rgb { 255 251 33 }
+	color_ui = rgb { 255 251 33 }
+}
+POL = {
+	color = rgb { 197 92 106 }
+	color_ui = rgb { 255 120 138 }
+}
+QUE = {
+	color = rgb { 66 85 229 }
+	color_ui = rgb { 66 85 229 }
+}
+RNG = {
+	color = rgb { 229 229 59 }
+	color_ui = rgb { 229 229 59 }
+}
+PUD = {
+	color = rgb { 52 168 57 }
+	color_ui = rgb { 52 168 57 }
+}
+GAC = {
+	color = rgb { 168 146 67 }
+	color_ui = rgb { 168 146 67 }
+}
+GEA = {
+	color = rgb { 119 145 106 }
+	color_ui = rgb { 119 145 106 }
+}
+COU = {
+	color = rgb { 217 45 199 }
+	color_ui = rgb { 217 45 199 }
+}
+RUS = {
+	color = rgb { 0 127 70 }
+	color_ui = rgb { 0 127 70 }
 }

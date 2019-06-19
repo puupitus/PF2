@@ -272,8 +272,8 @@ governments_in_exile = {
 		    }
 		    FROM = {
 		    	OR = {
-		    		fascism > 0.1
-		    		communism > 0.1
+		    		autocratic > 0.1
+		    		socialism > 0.1
 		    	}
 		    }
 		}
@@ -285,8 +285,8 @@ governments_in_exile = {
 		    }
 		    FROM = {
 		    	OR = {
-		    		fascism > 0.05
-		    		communism > 0.05
+		    		autocratic > 0.05
+		    		socialism > 0.05
 		    	}
 		    }
 		}
@@ -298,8 +298,8 @@ governments_in_exile = {
 		    }
 		    FROM = {
 		    	OR = {
-		    		fascism > 0.05
-		    		communism > 0.05
+		    		autocratic > 0.05
+		    		socialism > 0.05
 		    	}
 		    }
 		}
@@ -307,7 +307,7 @@ governments_in_exile = {
 		targeted_modifier = {
 			tag = FROM
 			targeted_legitimacy_daily = -1
-			conservatism_drift = 0.05
+			democratic_drift = 0.05
 		}
 
 		remove_effect = {

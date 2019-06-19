@@ -105,7 +105,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = fascism has_government = nazism has_government = syncretism }
+				OR = { has_government = autocratic }
 			}
 
 			removal_cost = -1
@@ -114,7 +114,7 @@ ideas = {
 
 
 			modifier = {
-				fascism_drift = 0.1
+				autocratic_drift = 0.1
 			}
 		}
 		MTG_TEST_NAVAL_IDEA = { #MTG_TODO_GABRIEL: remove before shipping
@@ -142,7 +142,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+				OR = { has_government = socialism }
 			}
 
 			removal_cost = -1
@@ -151,7 +151,7 @@ ideas = {
 
 			modifier = {
 				#justify_war_goal_time = -0.25
-				communism_drift = 0.1
+				socialism_drift = 0.1
 			}
 		}
 
@@ -162,16 +162,16 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = fascism has_government = nazism has_government = syncretism }
+				OR = { has_government = autocratic }
 			}
 
 			removal_cost = -1
 
-			picture = generic_fascism_drift_bonus
+			picture = generic_autocratic_drift_bonus
 
 			modifier = {
-				fascism_drift = 0.1
-				fascism_acceptance = 85
+				autocratic_drift = 0.1
+				autocratic_acceptance = 85
 			}
 		}
 
@@ -183,19 +183,19 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+				OR = { has_government = socialism }
 			}
 
 			removal_cost = -1
 
-			picture = generic_communism_drift_bonus
+			picture = generic_socialism_drift_bonus
 
 			modifier = {
-				communism_drift = 0.1
-				communism_acceptance = 85
+				socialism_drift = 0.1
+				socialism_acceptance = 85
 			}
 		}
-		conservatism_influence = {
+		democratic_influence = {
 
 
 			allowed = {
@@ -203,25 +203,25 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = conservatism has_government = liberalism has_government = centrism has_government = social_democracy  has_government = christian_democracy }
+				OR = { has_government = democratic }
 			}
 
 			removal_cost = -1
 
-			picture = generic_conservatism_drift_bonus
+			picture = generic_democratic_drift_bonus
 
 			modifier = {
-				conservatism_drift = 0.1
-				conservatism_acceptance = 85
+				democratic_drift = 0.1
+				democratic_acceptance = 85
 			}
 		}
-		authoritarianism_influence = {
+		autocratic_influence = {
 			allowed = {
 				always = no
 			}
 
 			allowed_civil_war = {
-				has_government = authoritarianism
+				has_government = autocratic
 			}
 
 			removal_cost = -1
@@ -229,8 +229,8 @@ ideas = {
 			picture = generic_pp_unity_bonus
 
 			modifier = {
-				authoritarianism_drift = 0.1
-				authoritarianism_acceptance = 85
+				autocratic_drift = 0.1
+				autocratic_acceptance = 85
 			}
 		}
 
@@ -243,16 +243,16 @@ ideas = {
 				OR = {
 					AND = {
 						tag = GER
-						OR = { has_government = fascism has_government = nazism has_government = syncretism }
+						OR = { has_government = autocratic }
 						SOV = {
-							OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+							OR = { has_government = socialism }
 						}
 					}
 					AND = {
 						tag = SOV
-						OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+						OR = { has_government = socialism }
 						GER = {
-							OR = { has_government = fascism has_government = nazism has_government = syncretism }
+							OR = { has_government = autocratic }
 						}
 					}
 				}
@@ -261,8 +261,8 @@ ideas = {
 			removal_cost = -1
 
 			modifier = {
-				communism_acceptance = 100
-				fascism_acceptance = 100
+				socialism_acceptance = 100
+				autocratic_acceptance = 100
 			}
 		}
 
@@ -274,15 +274,15 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+				OR = { has_government = socialism }
 			}
 
 			removal_cost = -1
 
-			picture = generic_communism_drift_bonus
+			picture = generic_socialism_drift_bonus
 
 			modifier = {
-				communism_drift = 0.1
+				socialism_drift = 0.1
 			}
 		}
 
@@ -315,7 +315,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+				OR = { has_government = socialism }
 			}
 
 			removal_cost = -1
@@ -323,7 +323,7 @@ ideas = {
 			picture = generic_pp_unity_bonus
 
 			modifier = {
-				conservatism_drift = -0.02
+				democratic_drift = -0.02
 			}
 		}
 
@@ -335,12 +335,12 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = conservatism has_government = liberalism has_government = centrism has_government = social_democracy  has_government = christian_democracy }
+				OR = { has_government = democratic }
 			}
 
 			removal_cost = -1
 
-			picture = generic_conservatism_drift_bonus
+			picture = generic_democratic_drift_bonus
 
 			modifier = {
 				trade_opinion_factor = 0.2
@@ -355,7 +355,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = fascism has_government = nazism has_government = syncretism }
+				OR = { has_government = autocratic }
 			}
 
 			removal_cost = -1
@@ -377,8 +377,8 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					OR = { has_government = communism  has_government = syndicalism has_government = socialism }
-					OR = { has_government = fascism has_government = nazism has_government = syncretism }
+					OR = { has_government = socialism }
+					OR = { has_government = autocratic }
 				}
 			}
 
@@ -400,8 +400,8 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					OR = { has_government = communism  has_government = syndicalism has_government = socialism }
-					OR = { has_government = fascism has_government = nazism has_government = syncretism }
+					OR = { has_government = socialism }
+					OR = { has_government = autocratic }
 				}
 			}
 
@@ -423,8 +423,8 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					OR = { has_government = communism  has_government = syndicalism has_government = socialism }
-					OR = { has_government = fascism has_government = nazism has_government = syncretism }
+					OR = { has_government = socialism }
+					OR = { has_government = autocratic }
 				}
 			}
 
@@ -471,7 +471,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+				OR = { has_government = socialism }
 			}
 
 			removal_cost = -1
@@ -483,7 +483,7 @@ ideas = {
 			}
 		}
 
-		authoritarianism_idea = {
+		autocratic_idea = {
 
 
 			allowed = {
@@ -491,7 +491,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = authoritarianism
+				has_government = autocratic
 			}
 
 			cancel = {
@@ -607,7 +607,7 @@ ideas = {
 			}
 		}
 
-		communism_banned = {
+		socialism_banned = {
 			picture = anti_soviet_pact
 			allowed = {
 				always = no
@@ -615,18 +615,18 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT = {
-					OR = { has_government = communism  has_government = syndicalism has_government = socialism }
+					OR = { has_government = socialism }
 				}
 			}
 
 			modifier = {
-				communism_drift = -0.05
+				socialism_drift = -0.05
 			}
 		}
 
-		fascism_banned = {
+		autocratic_banned = {
 
-			picture = generic_fascism_banned
+			picture = generic_autocratic_banned
 
 			allowed = {
 				always = no
@@ -634,12 +634,12 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT = {
-					OR = { has_government = fascism has_government = nazism has_government = syncretism }
+					OR = { has_government = autocratic }
 				}
 			}
 
 			modifier = {
-				fascism_drift = -0.05
+				autocratic_drift = -0.05
 			}
 		}
 

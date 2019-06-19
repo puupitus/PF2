@@ -1,5 +1,5 @@
 autonomy_state = {
-	id = TRTW_integrated_autonomy
+	id = PF_integrated_autonomy
 
 	is_puppet = yes
 

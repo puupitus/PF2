@@ -53,7 +53,7 @@ continent = {
 					"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
 			}
 		}
-		communism = {
+		socialism = {
 				male = {
 					"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
 			}
@@ -78,7 +78,7 @@ continent = {
 					"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 			}
 		}
-		conservatism = {
+		democratic = {
 				male = {
 					"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 			}
@@ -93,12 +93,12 @@ continent = {
 					"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 			}
 		}
-		fascism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 			}
 		}
-		authoritarianism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 			}
@@ -139,7 +139,7 @@ continent = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
 		}
 	}
-	communism = {
+	socialism = {
 			male = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
 		}
@@ -164,7 +164,7 @@ continent = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 		}
 	}
-	conservatism = {
+	democratic = {
 			male = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 		}
@@ -179,12 +179,12 @@ continent = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 		}
 	}
-	fascism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 		}
 	}
-	authoritarianism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 		}
@@ -224,7 +224,7 @@ continent = {
 				"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
 		}
 	}
-	communism = {
+	socialism = {
 			male = {
 				"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
 		}
@@ -249,7 +249,7 @@ continent = {
 				"gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
 		}
 	}
-	conservatism = {
+	democratic = {
 			male = {
 				"gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
 		}
@@ -264,12 +264,12 @@ continent = {
 				"gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
 		}
 	}
-	fascism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
 		}
 	}
-	authoritarianism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
 		}
@@ -310,7 +310,7 @@ continent = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
 		}
 	}
-	communism = {
+	socialism = {
 			male = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
 		}
@@ -335,7 +335,7 @@ continent = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 		}
 	}
-	conservatism = {
+	democratic = {
 			male = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 		}
@@ -350,12 +350,12 @@ continent = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 		}
 	}
-	fascism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 		}
 	}
-	authoritarianism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 		}
@@ -395,7 +395,7 @@ continent = {
 				"gfx/leaders/Africa/Portrait_Africa_Generic_1.dds"
 		}
 	}
-	communism = {
+	socialism = {
 			male = {
 				"gfx/leaders/Africa/Portrait_Africa_Generic_1.dds"
 		}
@@ -420,7 +420,7 @@ continent = {
 				"gfx/leaders/Africa/Portrait_Africa_Generic_2.dds"
 		}
 	}
-	conservatism = {
+	democratic = {
 			male = {
 				"gfx/leaders/Africa/Portrait_Africa_Generic_2.dds"
 		}
@@ -435,12 +435,12 @@ continent = {
 				"gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
 		}
 	}
-	fascism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
 		}
 	}
-	authoritarianism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
 		}
@@ -481,7 +481,7 @@ continent = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
 		}
 	}
-	communism = {
+	socialism = {
 			male = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
 		}
@@ -506,7 +506,7 @@ continent = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
 		}
 	}
-	conservatism = {
+	democratic = {
 			male = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
 		}
@@ -521,12 +521,12 @@ continent = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
 		}
 	}
-	fascism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
 		}
 	}
-	authoritarianism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
 		}
@@ -564,7 +564,7 @@ continent = {
 				"gfx/leaders/SAU/Portrait_Arabia_Generic_1.dds"
 		}
 	}
-	communism = {
+	socialism = {
 			male = {
 				"gfx/leaders/SAU/Portrait_Arabia_Generic_1.dds"
 		}
@@ -589,7 +589,7 @@ continent = {
 				"gfx/leaders/SAU/Portrait_Arabia_Generic_2.dds"
 		}
 	}
-	conservatism = {
+	democratic = {
 			male = {
 				"gfx/leaders/SAU/Portrait_Arabia_Generic_2.dds"
 		}
@@ -604,12 +604,12 @@ continent = {
 				"gfx/leaders/SAU/Portrait_Arabia_Generic_3.dds"
 		}
 	}
-	fascism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/SAU/Portrait_Arabia_Generic_3.dds"
 		}
 	}
-	authoritarianism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/SAU/Portrait_Arabia_Generic_3.dds"
 		}
@@ -912,7 +912,7 @@ RAJ = {
 	}
 
 	political = {
-		communism = {
+		socialism = {
 				male = {
 					"gfx/leaders/RAJ/Portrait_The_Raj_Political_Leader_Generic.dds"
 			}
@@ -922,12 +922,12 @@ RAJ = {
 					"gfx/leaders/RAJ/Portrait_The_Raj_Political_Leader_Generic_2.dds"
 			}
 		}
-		fascism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/RAJ/Portrait_The_Raj_Army_Generic.dds"
 			}
 		}
-		authoritarianism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/RAJ/Portrait_The_Raj_Political_Leader_Generic.dds"
 			}
@@ -945,7 +945,7 @@ PAK = {
 	}
 
 	political = {
-		communism = {
+		socialism = {
 				male = {
 					"gfx/leaders/RAJ/Portrait_The_Raj_Political_Leader_Generic_2.dds"
 			}
@@ -955,12 +955,12 @@ PAK = {
 					"gfx/leaders/RAJ/Portrait_The_Raj_Political_Leader_Generic_2.dds"
 			}
 		}
-		fascism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/RAJ/Portrait_The_Raj_Army_Generic_2.dds"
 			}
 		}
-		authoritarianism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/RAJ/Portrait_The_Raj_Political_Leader_Generic_2.dds"
 			}
@@ -1007,7 +1007,7 @@ AFG = {
 		}
 	}
 	political = {
-		communism = {
+		socialism = {
 				male = {
 					"gfx/leaders/SAU/Portrait_Arabia_Generic_1.dds"
 			}
@@ -1017,12 +1017,12 @@ AFG = {
 					"gfx/leaders/SAU/Portrait_Arabia_Generic_2.dds"
 			}
 		}
-		fascism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/SAU/Portrait_Arabia_Generic_3.dds"
 			}
 		}
-		authoritarianism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/SAU/Portrait_Arabia_Generic_3.dds"
 			}
@@ -1131,12 +1131,12 @@ GEO = {
 		}
 	}
 	political = {
-		fascism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/SOV/Portrait_Soviet_Generic_3.dds"
 			}
 		}
-		authoritarianism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/SOV/Portrait_Soviet_Generic_3.dds"
 			}
@@ -1164,7 +1164,7 @@ BAH = {
 	}
 
 	political = {
-		communism = {
+		socialism = {
 				male = {
 					"gfx/leaders/Africa/Portrait_Africa_Generic_1.dds"
 					"gfx/leaders/SAF/Portrait_South_Africa_Political_Leader_Generic_2.dds"
@@ -1177,7 +1177,7 @@ BAH = {
 					"gfx/leaders/SAF/Portrait_South_Africa_Political_Leader_Generic_2.dds"
 			}
 		}
-		fascism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
 					"gfx/leaders/SAF/Portrait_South_Africa_Political_Leader_Generic.dds"
@@ -1186,7 +1186,7 @@ BAH = {
 					"gfx/leaders/SAF/Portrait_South_Africa_Army_Generic_2.dds"
 			}
 		}
-		authoritarianism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
 					"gfx/leaders/SAF/Portrait_South_Africa_Political_Leader_Generic.dds"
@@ -1216,7 +1216,7 @@ BLZ = {
 	}
 
 	political = {
-		communism = {
+		socialism = {
 				male = {
 					"gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
 			}
@@ -1226,12 +1226,12 @@ BLZ = {
 					"gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
 			}
 		}
-		fascism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
 			}
 		}
-		authoritarianism = {
+		autocratic = {
 				male = {
 					"gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
 			}
@@ -1268,7 +1268,7 @@ JSP = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
 		}
 	}
-	communism = {
+	socialism = {
 			male = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
 		}
@@ -1293,7 +1293,7 @@ JSP = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
 		}
 	}
-	conservatism = {
+	democratic = {
 			male = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
 		}
@@ -1308,12 +1308,12 @@ JSP = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
 		}
 	}
-	fascism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
 		}
 	}
-	authoritarianism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
 		}
@@ -1352,7 +1352,7 @@ USB = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
 		}
 	}
-	communism = {
+	socialism = {
 			male = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
 		}
@@ -1377,7 +1377,7 @@ USB = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 		}
 	}
-	conservatism = {
+	democratic = {
 			male = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 		}
@@ -1392,12 +1392,12 @@ USB = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 		}
 	}
-	fascism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 		}
 	}
-	authoritarianism = {
+	autocratic = {
 			male = {
 				"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 		}
