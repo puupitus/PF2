@@ -1,0 +1,140 @@
+﻿capital = 278
+oob = "GEN_1930"
+set_research_slots = 3
+set_stability = 0.50
+set_war_support = 0
+army_experience = 50
+navy_experience = 50
+air_experience = 50
+
+# Puppets
+
+# Technology
+
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	gwtank = 1
+	early_fighter = 1
+	early_bomber = 1
+}
+
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_submarine = 1
+		early_destroyer = 1
+		early_light_cruiser = 1
+		early_heavy_cruiser = 1
+		early_battleship = 1
+		early_battlecruiser = 1
+		early_carrier = 1
+		transport = 1
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_naval_mines = 1
+		submarine_mine_laying = 1
+		early_ship_hull_light = 1
+		early_ship_hull_submarine = 1
+		early_ship_hull_cruiser = 1
+		early_ship_hull_heavy = 1
+		early_ship_hull_carrier = 1
+		basic_battery = 1
+		basic_torpedo = 1
+		sonar = 1
+		basic_secondary_battery = 1
+		mtg_transport = 1
+	}
+}
+
+# Politics
+
+set_politics = {
+
+parties = {
+
+syncretism = { popularity = 0 }
+syndicalism = { popularity = 8	}
+communism = { popularity = 2 }
+socialism = { popularity = 5 }
+social_democracy = { popularity = 62	}
+liberalism = { popularity = 0	}
+centrism = { popularity = 10	}
+conservatism = { popularity = 6	}
+christian_democracy = { popularity = 0 }
+authoritarianism = { popularity = 7	}
+fascism = { popularity = 0 }
+nazism = { popularity = 0	}
+
+}
+
+	ruling_party = social_democracy
+	last_election = "1928.5.15"
+	election_frequency = 48
+	elections_allowed = no
+}
+# Leaders
+
+create_country_leader = {
+	name = "Fanny Jabcovsky"
+	picture = "fanny_jabcovsky.tga"
+	ideology = communist
+}
+create_country_leader = {
+	name = "Antonio Soto"
+	picture = "antonio_soto.tga"
+	ideology = syndicalist
+}
+create_country_leader = {
+	name = "Lisandro de la Torre"
+	picture = "lisandro_de_la_torre.tga"
+	ideology = socialist
+}
+create_country_leader = {
+	name = "Hipólito Yrigoyen"
+	picture = "hipolito_yrigoyen.tga"
+	ideology = social_democrat
+}
+create_country_leader = {
+	name = "Hipólito Yrigoyen"
+	picture = "hipolito_yrigoyen.tga"
+	ideology = liberal
+}
+create_country_leader = {
+	name = "Agustín Pedro Justo"
+	picture = "agustin_pedro_justo.tga"
+	ideology = centrist
+}
+create_country_leader = {
+	name = "Roberto María Ortiz"
+	picture = "roberto_maria_ortiz.tga"
+	ideology = conservative
+}
+create_country_leader = {
+	name = "Roberto María Ortiz"
+	picture = "roberto_maria_ortiz.tga"
+	ideology = christian_democrat
+}
+create_country_leader = {
+	name = "José Félix Uriburu"
+	picture = "jose_felix_uriburu.tga"
+	ideology = authoritarian
+}
+create_country_leader = {
+	name = "José Félix Uriburu"
+	picture = "jose_felix_uriburu.tga"
+	ideology = fascist
+}
+create_country_leader = {
+	name = "Juan Perón"
+	picture = "juan_peron.tga"
+	ideology = syncretist
+}
+create_country_leader = {
+	name = "José Félix Uriburu"
+	picture = "jose_felix_uriburu.tga"
+	ideology = nazi
+}

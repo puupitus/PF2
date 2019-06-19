@@ -1,0 +1,30 @@
+
+state={
+	id=401
+	name="STATE_401"
+	resources={
+		steel=24.000
+		tungsten=16.000
+	}
+
+	history={
+		owner = VGE
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOV
+		add_core_of = VGE
+		victory_points = {
+			11523 1
+		}
+
+	}
+
+	provinces={
+		499 3518 6479 6539 6601 9432 9475 9577 11395 11421 11460 11523
+	}
+	manpower=927795
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,49 @@
+state={
+	id=755
+	name="STATE_755"
+	provinces={
+		2053 2099 7997 10750 10796 10834 10865 12846 12890 13146 12820 12596 5076 7971 1778 2028 5100 12327 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+	history={
+		owner = XSM
+
+		add_core_of = CHI
+add_core_of = PRC
+add_core_of = SIK
+add_core_of = XSM
+add_core_of = YUN
+add_core_of = GXC
+add_core_of = SHX
+add_core_of = FEN
+add_core_of = MAN
+add_core_of = GDN
+add_core_of = XIK
+add_core_of = GUO
+
+		buildings = {
+			
+			
+
+		}
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = {
+						has_dlc = "Waking the Tiger"
+					}
+
+				}
+				CHI = {
+					transfer_state = PREV
+
+				}
+
+			}
+
+		}
+
+	}
+}

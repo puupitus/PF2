@@ -1,0 +1,24 @@
+state={
+	id=838
+	name="STATE_838"
+	provinces={
+		6997
+	}
+	manpower=120000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	history={
+		owner = TCS
+		victory_points = {
+			6997 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOV
+		add_core_of = ARM
+		add_core_of = TCS
+		add_core_of = NAK
+	}
+}

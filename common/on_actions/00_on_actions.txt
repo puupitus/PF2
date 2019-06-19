@@ -1,0 +1,27 @@
+on_actions = {
+  on_puppet = {
+		effect = {
+			  ROOT = {
+        drop_cosmetic_tag = yes
+      }
+		}
+	}
+
+	#used when puppeting through the occupied territories menu during peace time (or when releasing from non-core but owned territory, f.e. Britain releasing Egypt)
+	#ROOT = nation being released, FROM = overlord
+
+	on_release_as_puppet = {
+    effect = {
+			  ROOT = {
+        drop_cosmetic_tag = yes
+      }
+		}
+	}
+  on_release_as_free = {
+    effect = {
+			  ROOT = {
+        drop_cosmetic_tag = yes
+      }
+		}
+  }
+}

@@ -1,0 +1,31 @@
+state={
+	id=846
+	name="STATE_846"
+  provinces={
+	   878 893 3937 6814 6857 6923 6952 6967 6982 9818 9862 9888 9902 9919 11813 }
+
+	manpower=2400000
+	buildings_max_level_factor=1.000
+	state_category=city
+	history={
+		owner = BUL
+    victory_points = {
+			6923 5
+		}
+    victory_points = {
+			9902 3
+		}
+    buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 2
+      9902 = {
+				naval_base = 1
+			}
+		}
+    add_core_of = BUL
+		add_core_of = GRE
+
+	}
+}

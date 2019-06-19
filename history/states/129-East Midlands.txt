@@ -1,0 +1,34 @@
+
+state={
+	id=129
+	name="STATE_129"
+	manpower = 2212021
+
+	state_category = city
+
+	resources={
+		steel=11 # was: 20
+	}
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 1
+
+			air_base = 5
+		}
+		add_core_of = ENG
+		1939.1.1 = {
+			buildings = {
+
+
+			}
+		}
+	}
+
+	provinces={
+		364 3353 6237 9250 9268 9322 11279
+	}
+}

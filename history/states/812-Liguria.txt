@@ -1,0 +1,30 @@
+
+state={
+	id=812
+	name="STATE_812"
+	provinces={
+		3772 6788 11891
+	}
+	manpower=1423000
+	buildings_max_level_factor=1.000
+	state_category=city
+	history={
+		owner = ITA
+		victory_points = {
+			6788 10
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			dockyard = 1
+			6788 = {
+				naval_base = 8
+
+			}
+
+		}
+		add_core_of = ITA
+
+
+	}
+}

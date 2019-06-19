@@ -1,0 +1,28 @@
+
+state={
+	id=836
+	name="STATE_836"
+	provinces={
+		685 6674 9632 11614
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	resources={
+		chromium=15.000
+	}
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOV
+		add_core_of = KAB
+
+		victory_points = {
+			11614 1
+		}
+
+	}
+}

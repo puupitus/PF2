@@ -1,0 +1,40 @@
+
+state={
+	id=611
+	name="STATE_611" # South Chahar
+	manpower = 1470000
+
+	state_category = pastoral
+
+	history={
+		owner = SHX
+
+		add_core_of = CHI
+add_core_of = PRC
+add_core_of = SIK
+add_core_of = XSM
+add_core_of = YUN
+add_core_of = GXC
+add_core_of = SHX
+add_core_of = FEN
+add_core_of = MAN
+add_core_of = GDN
+add_core_of = XIK
+add_core_of = GUO
+add_core_of = MEN
+add_core_of = MON
+
+
+		buildings = {
+			infrastructure = 1
+			
+		}
+		victory_points = {
+			11752 3
+		}
+	}
+
+	provinces={
+		828 952 1137 1489 1590 4495 4612 6904 7545 7674 9776 10397 11752
+	}
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=802
+	name="STATE_802"
+	provinces={
+		67 3137 6047 6163 9056 9073 9160 9167 9183 11066 11138 13100 13102 13103 13106 13107
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	history={
+		owner = FIN
+
+		victory_points = {
+			3137 3
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+
+		}
+		add_core_of = FIN
+
+	}
+}

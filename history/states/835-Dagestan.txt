@@ -1,0 +1,27 @@
+
+state={
+	id=835
+	name="STATE_835"
+	provinces={
+		700 712 728 1450 1455 3668 3682 3711 4463 6689 6701 6730 6748 7554 7624 9645
+	}
+	manpower=1080000
+	buildings_max_level_factor=1.000
+	resources={
+		oil=19.000
+	}
+	state_category=rural
+	history={
+		owner = DAG
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			3668 1
+		}
+		add_core_of = SOV
+		add_core_of = DAG
+
+	}
+}

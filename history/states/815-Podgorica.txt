@@ -1,0 +1,33 @@
+
+state={
+	id=815
+	name="STATE_815"
+	provinces={
+		6913 9809
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	resources={
+		chromium=10.000
+		aluminium=35.000
+	}
+	history={
+		victory_points = {
+			9809 3
+		}
+		owner = YUG
+		add_core_of = MNT
+		buildings = {
+			infrastructure = 1
+			
+			9809 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = YUG
+
+	}
+}

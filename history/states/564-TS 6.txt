@@ -1,0 +1,31 @@
+
+state={
+	id=564
+	name="STATE_564"
+	resources={
+		steel=10.000
+		chromium=12.000
+		tungsten=10.000
+		aluminium=4.000
+	}
+
+	history={
+		owner = BUR
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOV
+		add_core_of = BUR
+		victory_points = {
+			7816 1
+		}
+	}
+
+	provinces={
+		1696 1762 1810 4705 4716 4766 4835 4837 7736 7751 7816 7835 10524 10528 10543 10658 12507 12575 12644 13152
+	}
+	manpower=570893
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

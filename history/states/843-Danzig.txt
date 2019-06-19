@@ -1,0 +1,27 @@
+
+state={
+	id=843
+	name="STATE_843"
+	provinces={
+		362
+	}
+	manpower=400000
+	buildings_max_level_factor=1.000
+	state_category = large_town
+	history={
+		owner = DAN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+      362 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = DAN
+		add_core_of = GER
+    victory_points = {
+			362 10
+		}
+
+	}
+}

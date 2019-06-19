@@ -1,0 +1,25 @@
+
+state={
+	id=256
+	name="STATE_256"
+
+	history={
+		owner = CHU
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOV
+		add_core_of = CHU
+		victory_points = {
+			3282 1
+		}
+	}
+
+	provinces={
+		368 3224 3282 3383 6253 6374 6403 9259
+	}
+	manpower=1072061
+	buildings_max_level_factor=1.000
+	state_category=town
+}

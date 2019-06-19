@@ -1,0 +1,27 @@
+
+state={
+	id=828
+	name="STATE_828"
+	provinces={
+		563 3558 11547 11560
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=city
+	resources={
+		steel=10.000
+	}
+	history={
+		owner = GER
+		victory_points = {
+			11560 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = GER
+		set_demilitarized_zone = yes
+
+	}
+}

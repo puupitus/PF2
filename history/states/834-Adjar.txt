@@ -1,0 +1,31 @@
+state={
+	id=834
+	name="STATE_834"
+	provinces={
+		3653
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=town
+	history={
+		owner = TCS
+
+		victory_points = {
+			3653 3
+		}
+		buildings = {
+			infrastructure = 1
+			3653 = {
+				naval_base = 2
+				coastal_bunker = 1
+
+			}
+
+		}
+		add_core_of = SOV
+		add_core_of = GEO
+		add_core_of = TCS
+		add_core_of = ADJ
+
+	}
+}

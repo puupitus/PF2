@@ -1,0 +1,22 @@
+
+state={
+	id=829
+	name="STATE_829"
+	provinces={
+		3700 9661 11630
+	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	history={
+		owner = AUS
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		add_core_of = AUS
+
+	}
+}

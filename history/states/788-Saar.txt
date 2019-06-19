@@ -1,0 +1,27 @@
+state={
+	id=788
+	name="STATE_788"
+	provinces={
+		11531
+	}
+	manpower=800000
+	buildings_max_level_factor=1.000
+	state_category=city
+	resources={
+		steel=8.000
+	}
+	history={
+		owner = SAA
+		add_core_of = SAA
+		add_core_of = GER
+		victory_points = {
+			11531 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+		set_demilitarized_zone = yes
+	}
+
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=811
+	name="STATE_811"
+	provinces={
+		318 3281 3366 3393 13206
+	}
+	manpower=1100000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	history={
+
+		victory_points = {
+			3393 3
+		}
+		owner = PLA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 3
+
+		}
+		add_core_of = PLA
+		add_core_of = BLR
+		add_core_of = LIT
+
+	}
+}

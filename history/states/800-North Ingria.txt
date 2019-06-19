@@ -1,0 +1,28 @@
+
+state={
+	id=800
+	name="STATE_800"
+	provinces={
+		3060 9100 9105 9150
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	history={
+		owner = FIN
+		add_core_of = FIN
+		add_core_of = KAR
+		add_core_of = SOV
+		add_core_of = ING
+		buildings = {
+			infrastructure = 1
+
+
+
+		}
+		victory_points = {
+			9100 1
+		}
+
+	}
+}

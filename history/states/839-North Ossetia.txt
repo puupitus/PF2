@@ -1,0 +1,27 @@
+
+state={
+	id=839
+	name="STATE_839"
+	provinces={
+		9628 11609
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	resources={
+		chromium=10.000
+	}
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOV
+		add_core_of = NOS
+		victory_points = {
+			9628 3
+		}
+
+	}
+}

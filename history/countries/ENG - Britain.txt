@@ -1,0 +1,1307 @@
+﻿capital = 126
+oob = "GEN_1930"
+set_research_slots = 3
+set_stability = 0.50
+set_war_support = 0
+army_experience = 50
+navy_experience = 50
+air_experience = 50
+
+# Puppets
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = IRE
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = IRE
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = NEW
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = NEW
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = CAN
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = CAN
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = BLZ
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = BLZ
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = BAH
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = BAH
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = JAM
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = JAM
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = BAS
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = BAS
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = GYA
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = GYA
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = MLT
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = MLT
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = CYP
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = CYP
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = EGY
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = EGY
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = GAM
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = GAM
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = SIE
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = SIE
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = GHA
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = GHA
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = NGA
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = NGA
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = SUD
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = SUD
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = KEN
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = KEN
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = UGA
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = UGA
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = TZN
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = TZN
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = ZAM
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = ZAM
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = MLW
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = MLW
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = ZIM
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = ZIM
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = BOT
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = BOT
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = SAF
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = SAF
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = MLD
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = MLD
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = PAL
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = PAL
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = JOR
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = JOR
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = IRQ
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = IRQ
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = OMA
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = OMA
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = RAJ
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = RAJ
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = SRL
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = SRL
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = BHU
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = BHU
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = MAL
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = MAL
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = AST
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = AST
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = NZL
+        autonomous_state = TRTW_client_state
+    }
+    else = {
+        puppet = NZL
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = FIJ
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = FIJ
+    }
+}
+IRE = {
+	set_cosmetic_tag = IRE_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+NEW = {
+	set_cosmetic_tag = NEW_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+CAN = {
+	set_cosmetic_tag = CAN_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+BAH = {
+	set_cosmetic_tag = BAH_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+JAM = {
+	set_cosmetic_tag = JAM_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+BLZ = {
+	set_cosmetic_tag = BLZ_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+BAS = {
+	set_cosmetic_tag = BAS_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+GYA = {
+	set_cosmetic_tag = GYA_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+MLT = {
+	set_cosmetic_tag = MLT_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+CYP = {
+	set_cosmetic_tag = CYP_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+EGY = {
+	set_cosmetic_tag = EGY_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+PAL = {
+	set_cosmetic_tag = PAL_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+JOR = {
+	set_cosmetic_tag = JOR_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+GAM = {
+	set_cosmetic_tag = GAM_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+SIE = {
+	set_cosmetic_tag = SIE_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+GHA = {
+	set_cosmetic_tag = GHA_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+NGA = {
+	set_cosmetic_tag = NGA_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+EGY = {
+	set_cosmetic_tag = EGY_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+SUD = {
+	set_cosmetic_tag = SUD_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+UGA = {
+	set_cosmetic_tag = UGA_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+KEN = {
+	set_cosmetic_tag = KEN_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+TZN = {
+	set_cosmetic_tag = TZN_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+ZAM = {
+	set_cosmetic_tag = ZAM_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+MLW = {
+	set_cosmetic_tag = MLW_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+ZIM = {
+	set_cosmetic_tag = ZIM_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+BOT = {
+	set_cosmetic_tag = BOT_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+SAF = {
+	set_cosmetic_tag = SAF_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+KUW = {
+	set_cosmetic_tag = KUW_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+IRQ = {
+	set_cosmetic_tag = IRQ_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+OMA = {
+	set_cosmetic_tag = OMA_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+RAJ = {
+	set_cosmetic_tag = RAJ_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+SRL = {
+	set_cosmetic_tag = SRL_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+MLD = {
+	set_cosmetic_tag = MLD_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+MAL = {
+	set_cosmetic_tag = MAL_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+AST = {
+	set_cosmetic_tag = AST_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 4	}
+				communism = { popularity = 1 }
+				socialism = { popularity = 1 }
+				social_democracy = { popularity = 49	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 11	}
+				conservatism = { popularity = 34	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 0	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = social_democracy
+			elections_allowed = no
+		}
+}
+NZL = {
+	set_cosmetic_tag = NZL_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+FIJ = {
+	set_cosmetic_tag = FIJ_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+BHU = {
+	set_cosmetic_tag = BHU_bri
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+# Technology
+
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	gwtank = 1
+	early_fighter = 1
+	early_bomber = 1
+}
+
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_submarine = 1
+		early_destroyer = 1
+		early_light_cruiser = 1
+		early_heavy_cruiser = 1
+		early_battleship = 1
+		early_battlecruiser = 1
+		early_carrier = 1
+		transport = 1
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_naval_mines = 1
+		submarine_mine_laying = 1
+		early_ship_hull_light = 1
+		early_ship_hull_submarine = 1
+		early_ship_hull_cruiser = 1
+		early_ship_hull_heavy = 1
+		early_ship_hull_carrier = 1
+		basic_battery = 1
+		basic_torpedo = 1
+		sonar = 1
+		basic_secondary_battery = 1
+		mtg_transport = 1
+	}
+}
+
+# Politics
+
+set_politics = {
+
+parties = {
+
+syncretism = { popularity = 0 }
+syndicalism = { popularity = 0	}
+communism = { popularity = 0 }
+socialism = { popularity = 0 }
+social_democracy = { popularity = 0	}
+liberalism = { popularity = 0	}
+centrism = { popularity = 0	}
+conservatism = { popularity = 0	}
+christian_democracy = { popularity = 0 }
+authoritarianism = { popularity = 0	}
+fascism = { popularity = 0 }
+nazism = { popularity = 0	}
+
+}
+
+	ruling_party = conservatism
+	last_election = "1928.5.15"
+	election_frequency = 48
+	elections_allowed = no
+}

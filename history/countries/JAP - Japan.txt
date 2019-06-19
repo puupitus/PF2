@@ -1,0 +1,209 @@
+﻿capital = 282
+oob = "GEN_1930"
+set_research_slots = 3
+set_stability = 0.50
+set_war_support = 0
+army_experience = 50
+navy_experience = 50
+air_experience = 50
+
+# Puppets
+if = {
+    limit = {
+        has_dlc = "Waking the Tiger"
+    }
+    set_autonomy = {
+        target = KOR
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = KOR
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Waking the Tiger"
+    }
+    set_autonomy = {
+        target = FOR
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = FOR
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Waking the Tiger"
+    }
+    set_autonomy = {
+        target = MAN
+        autonomous_state = TRTW_integrated_autonomy
+    }
+    else = {
+        puppet = MAN
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Waking the Tiger"
+    }
+    set_autonomy = {
+        target = JSP
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = JSP
+    }
+}
+KOR = {
+	set_cosmetic_tag = KOR_jap
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+FOR = {
+	set_cosmetic_tag = FOR_jap
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+MAN = {
+	set_cosmetic_tag = MAN_jap
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+JSP = {
+	set_cosmetic_tag = JSP_jap
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+# Technology
+
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	gwtank = 1
+	early_fighter = 1
+	early_bomber = 1
+}
+
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_submarine = 1
+		early_destroyer = 1
+		early_light_cruiser = 1
+		early_heavy_cruiser = 1
+		early_battleship = 1
+		early_battlecruiser = 1
+		early_carrier = 1
+		transport = 1
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_naval_mines = 1
+		submarine_mine_laying = 1
+		early_ship_hull_light = 1
+		early_ship_hull_submarine = 1
+		early_ship_hull_cruiser = 1
+		early_ship_hull_heavy = 1
+		early_ship_hull_carrier = 1
+		basic_battery = 1
+		basic_torpedo = 1
+		sonar = 1
+		basic_secondary_battery = 1
+		mtg_transport = 1
+	}
+}
+
+# Politics
+
+set_politics = {
+
+parties = {
+
+syncretism = { popularity = 0 }
+syndicalism = { popularity = 0	}
+communism = { popularity = 0 }
+socialism = { popularity = 0 }
+social_democracy = { popularity = 0	}
+liberalism = { popularity = 0	}
+centrism = { popularity = 0	}
+conservatism = { popularity = 0	}
+christian_democracy = { popularity = 0 }
+authoritarianism = { popularity = 0	}
+fascism = { popularity = 0 }
+nazism = { popularity = 0	}
+
+}
+
+	ruling_party = authoritarianism
+	last_election = "1928.5.15"
+	election_frequency = 48
+	elections_allowed = no
+}

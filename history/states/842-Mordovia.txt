@@ -1,0 +1,24 @@
+
+state={
+	id=842
+	name="STATE_842"
+	provinces={
+		297 3285 6410 9298 9344 9360 9407 11324 11394
+	}
+	manpower=1200000
+	buildings_max_level_factor=1.000
+	state_category = town
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOV
+		add_core_of = MRD
+		victory_points = {
+			11324 1
+		}
+
+	}
+}

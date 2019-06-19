@@ -1,0 +1,25 @@
+
+state={
+	id=841
+	name="STATE_841"
+	provinces={
+		741 754 9576
+	}
+	manpower=600000
+	buildings_max_level_factor=1.000
+	state_category=town
+	history={
+		victory_points = {
+			741 1
+		}
+		owner = MOL
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SOV
+		add_core_of = UKR
+		add_core_of = MOL
+
+	}
+}

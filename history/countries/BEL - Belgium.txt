@@ -1,0 +1,206 @@
+﻿capital = 6
+oob = "GEN_1930"
+set_research_slots = 3
+set_stability = 0.50
+set_war_support = 0
+army_experience = 50
+navy_experience = 50
+air_experience = 50
+
+# Puppets
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = COG
+        autonomous_state = TRTW_colony
+    }
+    else = {
+        puppet = COG
+    }
+}
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = BRD
+        autonomous_state = TRTW_colony
+		}
+    else = {
+        puppet = BRD
+    }
+}
+COG = {
+	set_cosmetic_tag = COG_bel
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+BRD = {
+	set_cosmetic_tag = BRD_bel
+		set_politics = {
+			parties = {
+				syncretism = { popularity = 0 }
+				syndicalism = { popularity = 0	}
+				communism = { popularity = 0 }
+				socialism = { popularity = 0 }
+				social_democracy = { popularity = 0	}
+				liberalism = { popularity = 0	}
+				centrism = { popularity = 0	}
+				conservatism = { popularity = 0	}
+				christian_democracy = { popularity = 0 }
+				authoritarianism = { popularity = 100	}
+				fascism = { popularity = 0 }
+				nazism = { popularity = 0	}
+			}
+			ruling_party = authoritarianism
+			elections_allowed = no
+		}
+}
+# Technology
+
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	gwtank = 1
+	early_fighter = 1
+	early_bomber = 1
+}
+
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_submarine = 1
+		early_destroyer = 1
+		early_light_cruiser = 1
+		early_heavy_cruiser = 1
+		early_battleship = 1
+		early_battlecruiser = 1
+		early_carrier = 1
+		transport = 1
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_naval_mines = 1
+		submarine_mine_laying = 1
+		early_ship_hull_light = 1
+		early_ship_hull_submarine = 1
+		early_ship_hull_cruiser = 1
+		early_ship_hull_heavy = 1
+		early_ship_hull_carrier = 1
+		basic_battery = 1
+		basic_torpedo = 1
+		sonar = 1
+		basic_secondary_battery = 1
+		mtg_transport = 1
+	}
+}
+
+# Politics
+
+set_politics = {
+
+parties = {
+
+syncretism = { popularity = 6 }
+syndicalism = { popularity = 0	}
+communism = { popularity = 3 }
+socialism = { popularity = 0 }
+social_democracy = { popularity = 36	}
+liberalism = { popularity = 17	}
+centrism = { popularity = 0	}
+conservatism = { popularity = 0	}
+christian_democracy = { popularity = 38 }
+authoritarianism = { popularity = 0	}
+fascism = { popularity = 0 }
+nazism = { popularity = 0	}
+
+}
+
+	ruling_party = christian_democracy
+	last_election = "1928.5.15"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+# Leaders
+
+create_country_leader = {
+	name = "Julien Lahaut"
+	picture = "julien_lahaut.tga"
+	ideology = communist
+}
+create_country_leader = {
+	name = "Joseph Jacquemotte"
+	picture = "joseph_jacquemotte.tga"
+	ideology = syndicalist
+}
+create_country_leader = {
+	name = "Joseph Van Roosbroeck"
+	picture = "joseph_van_roosbroeck.tga"
+	ideology = socialist
+}
+create_country_leader = {
+	name = "Joseph Van Roosbroeck"
+	picture = "joseph_van_roosbroeck.tga"
+	ideology = social_democrat
+}
+create_country_leader = {
+	name = "Albert Devèze"
+	picture = "albert_deveze.tga"
+	ideology = liberal
+}
+create_country_leader = {
+	name = "Albert Devèze"
+	picture = "albert_deveze.tga"
+	ideology = centrist
+}
+create_country_leader = {
+	name = "Henri Jaspar"
+	picture = "henri_jaspar.tga"
+	ideology = conservative
+}
+create_country_leader = {
+	name = "Henri Jaspar"
+	picture = "henri_jaspar.tga"
+	ideology = christian_democrat
+}
+create_country_leader = {
+	name = "Léon Degrelle"
+	picture = "leon_degrelle.tga"
+	ideology = authoritarian
+}
+create_country_leader = {
+	name = "Joris van Severen"
+	picture = "joris_van_severen.tga"
+	ideology = fascist
+}
+create_country_leader = {
+	name = "Staf de Clercq"
+	picture = "staf_de_clercq.tga"
+	ideology = syncretist
+}
+create_country_leader = {
+	name = "Jef van de Wiele"
+	picture = "jef_van_de_wiele.tga"
+	ideology = nazi
+}

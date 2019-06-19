@@ -1,0 +1,25 @@
+
+state={
+	id=644
+	name="STATE_644"
+
+	history={
+		owner = RFE
+		buildings = {
+			13204 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = SOV
+		add_core_of = RFE
+	}
+
+	provinces={
+		4744 5264 13062 13063 13204
+	}
+	manpower=28364
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

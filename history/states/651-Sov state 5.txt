@@ -1,0 +1,29 @@
+
+state={
+	id=651
+	name="STATE_651"
+
+	history={
+		owner = BHK
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			1278 5
+		}
+		victory_points = {
+			4354 1
+		}
+		add_core_of = SOV
+		add_core_of = BHK
+
+	}
+
+	provinces={
+		273 291 1278 1305 1378 3289 4283 4354 6246 6285 7237 7300 7343 7416 7431 7444 9349 10142 10226 12117 12130 12172 12270
+	}
+	manpower=2552075
+	buildings_max_level_factor=1.000
+	state_category=city
+}

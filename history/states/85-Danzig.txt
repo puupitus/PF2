@@ -1,0 +1,27 @@
+state={
+	id=85
+	name="STATE_85"
+	manpower = 680100
+
+	state_category = town
+	history={
+		owner = PLA
+		victory_points = {
+			3295 5
+		}
+		victory_points = {
+			279 1
+		}
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+
+			air_base = 3
+		}
+		add_core_of = PLA
+	}
+
+	provinces={
+		243 279 334 389 3295 3324 6347 9263
+	}
+}
