@@ -8,7 +8,7 @@ state=
 
 	history=
 	{
-		owner = EGY
+		owner = TUR
 		buildings = {
 			infrastructure = 3
 			

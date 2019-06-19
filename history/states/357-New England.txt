@@ -9,7 +9,7 @@ state={
 
 
 	history={
-		owner = USA
+		owner = DNE
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2

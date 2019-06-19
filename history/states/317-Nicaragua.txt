@@ -8,8 +8,7 @@ state={
 	state_category = town
 
 	history={
-		owner = NIC
-		controller = USA
+		owner = HON
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

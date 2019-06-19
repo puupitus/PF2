@@ -11,7 +11,7 @@ state={
 	history={
 		
 add_core_of = FNA
-		owner = TUN
+		owner = FNA
 add_core_of = TUN
 
 		victory_points = {

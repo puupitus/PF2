@@ -5,14 +5,13 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = BRD
+		owner = GEA
 		add_core_of = RWA
-		add_core_of = BRD
 		victory_points = {
 			9962 1
 		}
 		buildings = {
-			
+
 
 		}
 	}

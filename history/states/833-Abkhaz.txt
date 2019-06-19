@@ -10,7 +10,7 @@ state={
 	state_category=rural
 
 	history={
-		owner = TCS
+		owner = ABK
 		victory_points = {
 			11617 1
 		}
@@ -20,7 +20,7 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = GEO
-		add_core_of = TCS
+
 		add_core_of = ABK
 
 	}

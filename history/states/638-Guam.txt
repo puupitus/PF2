@@ -6,7 +6,7 @@ state=
 	manpower=75153
 	history=
 	{
-		owner = USA
+		owner = CSA
 		buildings = {
 			infrastructure = 3
 			12140 = {

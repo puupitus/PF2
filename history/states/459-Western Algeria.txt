@@ -12,7 +12,7 @@ state={
 	history={
 		
 add_core_of = FNA
-		owner = ALG
+		owner = FNA
 add_core_of = ALG
 
 

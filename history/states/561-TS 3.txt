@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = RFE
+		owner = RUS
 		buildings = {
 			infrastructure = 1
 

@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = KOL
+		owner = RUS
 		victory_points = {
 			3134 5
 		}

@@ -11,7 +11,7 @@ state={
 		steel=8.000
 	}
 	history={
-		owner = SAA
+		owner = GER
 		add_core_of = SAA
 		add_core_of = GER
 		victory_points = {

@@ -6,9 +6,9 @@ state=
 	state_category = tiny_island
 
 	history={
-		owner = USA
+		owner = CAN
 		buildings = {
-			
+
 			13051 = {
 				naval_base = 1
 			}

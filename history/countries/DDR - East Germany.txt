@@ -1,4 +1,4 @@
-﻿capital = 64
+﻿capital = 763
 oob = "GEN_1930"
 set_research_slots = 3
 set_stability = 0.50
@@ -51,4 +51,3 @@ if = {
 }
 
 # Politics
- 

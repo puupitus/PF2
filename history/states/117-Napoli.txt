@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = ITA
+		owner = NAP
 		victory_points = {
 			819 20
 		}

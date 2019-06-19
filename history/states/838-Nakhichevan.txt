@@ -8,7 +8,7 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=rural
 	history={
-		owner = TCS
+		owner = NAK
 		victory_points = {
 			6997 1
 		}
@@ -18,7 +18,7 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = ARM
-		add_core_of = TCS
+
 		add_core_of = NAK
 	}
 }

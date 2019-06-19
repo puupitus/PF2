@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = RUS
 		buildings = {
 			12530 = {
 				naval_base = 1

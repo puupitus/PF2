@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = CAN
+		owner = QUE
 		buildings = {
 			infrastructure = 4
 			dockyard = 1

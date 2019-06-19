@@ -9,7 +9,7 @@ state={
 	history={
 		
 add_core_of = FNA
-		owner = MOR
+		owner = FNA
 add_core_of = MOR
 
 		victory_points = {

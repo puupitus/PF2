@@ -7,12 +7,12 @@ state={
 
 	history={
 		add_core_of = QAT
-		owner = RAJ
+		owner = TUR
 		victory_points = {
 			8051 1
 		}
 		buildings = {
-			
+
 			8051 = {
 				naval_base = 2
 			}
