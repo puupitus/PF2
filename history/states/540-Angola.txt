@@ -11,7 +11,7 @@ state={
 	history={
 		owner = ANG
 		buildings = {
-			
+
 			8248 ={
 				naval_base = 1
 			}
@@ -23,7 +23,7 @@ state={
 			8248 1
 		}
 		victory_points = {
-			10966 1
+			10966 3
 		}
 		add_core_of = ANG
 	}

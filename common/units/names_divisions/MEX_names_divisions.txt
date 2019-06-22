@@ -1,7 +1,7 @@
 ﻿MEX_INF_01 = {
 	name = "Cristero Guard"
 
-	for_countries = { MEX }
+	for_countries = { MEX SON }
 
 	can_use = {
 	}
@@ -37,7 +37,7 @@
 MEX_INF_02 = {
 	name = "Agrarian Militia"
 
-	for_countries = { MEX }
+	for_countries = { MEX SON }
 
 	can_use = {
 		always = yes
@@ -84,11 +84,11 @@ MEX_INF_02 = {
 MEX_INF_03 = {
 	name = "Red Brigade"
 
-	for_countries = { MEX }
+	for_countries = { MEX SON }
 
 	can_use = {
 			OR = { has_government = socialism }
-	
+
 	}
 
 	division_types = { "infantry" }

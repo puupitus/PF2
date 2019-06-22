@@ -8,10 +8,10 @@ state=
 
 	history=
 	{
-		owner = TUR
+		owner = EGY
 		buildings = {
 			infrastructure = 3
-			
+
 			air_base = 5
 			12049 = {
 				naval_base = 2

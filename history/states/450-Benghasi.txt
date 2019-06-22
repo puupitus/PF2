@@ -7,7 +7,7 @@ state={
 	state_category = enclave
 
 	history={
-		owner = TUR
+		owner = FNA
 
 		victory_points = {
 			11954 3

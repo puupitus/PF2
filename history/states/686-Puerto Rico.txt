@@ -7,7 +7,7 @@ state={
 
 	history={
 		add_core_of = PUE
-		owner = CSA
+		owner = PUE
 		victory_points = {
 			1440 1
 		}

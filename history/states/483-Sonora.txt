@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = CSA
+		owner = SON
 		buildings = {
 			infrastructure = 1
 			4908 = {

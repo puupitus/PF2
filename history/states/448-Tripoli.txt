@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = TUR
+		owner = FNA
 
 		victory_points = {
 			1149 10

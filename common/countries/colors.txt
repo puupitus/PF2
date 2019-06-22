@@ -804,3 +804,11 @@ BEL = {
 	color = rgb { 239 182 62 }
 	color_ui = rgb { 239 182 62 }
 }
+SON = {
+	color = rgb { 195 85 37 }
+	color_ui = rgb { 195 85 37 }
+}
+POA = {
+	color = rgb { 115 85 177 }
+	color_ui = rgb { 115 85 177 }
+}
