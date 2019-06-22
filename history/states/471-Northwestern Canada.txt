@@ -3,13 +3,13 @@ state={
 	id=471
 	name="STATE_471" # Northwestern Canada
 	manpower = 27681
-	
+
 	state_category = wasteland
 
 	history={
-		owner = CAN
+		owner = ALA
 		buildings = {
-			
+
 			10548 = {
 				naval_base = 1
 			}

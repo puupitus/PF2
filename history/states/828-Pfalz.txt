@@ -12,7 +12,7 @@ state={
 		steel=10.000
 	}
 	history={
-		owner = GER
+		owner = BAV
 		victory_points = {
 			11560 1
 		}
@@ -21,7 +21,6 @@ state={
 			industrial_complex = 1
 		}
 		add_core_of = GER
-		set_demilitarized_zone = yes
 
 	}
 }

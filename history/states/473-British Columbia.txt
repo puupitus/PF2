@@ -10,7 +10,7 @@ state={
 	state_category = town
 
 	history={
-		owner = CAN
+		owner = ALA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

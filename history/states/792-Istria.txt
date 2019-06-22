@@ -9,7 +9,7 @@ state={
 	state_category=town
 	history={
 
-		owner = KCH
+		owner = AUS
 		add_core_of = ITA
 
 		add_core_of = SLV

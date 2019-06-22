@@ -7,9 +7,9 @@ state={
 
 
 	history={
-		owner = TUR
+		owner = LBA
 		buildings = {
-			
+
 		}
 		add_core_of = LBA
 	}

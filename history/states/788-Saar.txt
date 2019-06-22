@@ -11,7 +11,7 @@ state={
 		steel=8.000
 	}
 	history={
-		owner = GER
+		owner = WGR
 		add_core_of = SAA
 		add_core_of = GER
 		victory_points = {
@@ -21,7 +21,6 @@ state={
 			infrastructure = 3
 			industrial_complex = 2
 		}
-		set_demilitarized_zone = yes
 	}
 
 }

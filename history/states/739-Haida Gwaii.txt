@@ -3,9 +3,9 @@ state={
 	name="STATE_739"
 
 	history={
-		owner = CAN
+		owner = ALA
 		buildings = {
-			
+
 
 			1869 = {
 				naval_base = 1
@@ -21,6 +21,6 @@ state={
 		1869
 	}
 	manpower=12684
-	buildings_max_level_factor=1	
+	buildings_max_level_factor=1
 	state_category="small_island"
 }

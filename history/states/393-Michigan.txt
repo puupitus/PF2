@@ -9,7 +9,7 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = WFA
+		owner = USA
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

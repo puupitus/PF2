@@ -9,7 +9,7 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=city
 	history={
-		owner = GER
+		owner = BAD
 		victory_points = {
 			3530 5
 		}
@@ -19,6 +19,5 @@ state={
 
 		}
 		add_core_of = GER
-		set_demilitarized_zone = yes
 	}
 }

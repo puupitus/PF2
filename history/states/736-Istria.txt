@@ -5,7 +5,7 @@ state={
 
 	history={
 
-		owner = GER
+		owner = AUS
 		add_core_of = ITA
 
 		add_core_of = SLV
