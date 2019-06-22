@@ -9,10 +9,10 @@ state={
 	history={
 		owner = FCF
 		victory_points = {
-			6444 1
+			6444 1 
 		}
 		victory_points = {
-			6488 20.0
+			6488 20.0 
 		}
 		buildings = {
 			infrastructure = 4
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		6444 9486 6488 589 3574
+		589 3574 6444 9486 
 	}
 	manpower=1927739
 	buildings_max_level_factor=1.000
