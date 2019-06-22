@@ -109,6 +109,7 @@ set_popularities = {
   socialism = 0
   democratic = 0
   autocratic = 100
+  fascism = 0
 }
 
 # Leaders

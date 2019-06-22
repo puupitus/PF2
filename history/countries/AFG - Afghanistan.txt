@@ -62,6 +62,7 @@ set_popularities = {
 	socialism = 0
 	democratic = 0
 	autocratic = 100
+	fascism = 0
 }
 
 # Leaders
@@ -80,4 +81,9 @@ create_country_leader = {
 	name = "Muhammad Nadir Shah"
 	picture = "muhammad_nadir_shah.tga"
 	ideology = autocrat
+}
+create_country_leader = {
+	name = "Muhammad Nadir Shah"
+	picture = "muhammad_nadir_shah.tga"
+	ideology = fascist
 }
