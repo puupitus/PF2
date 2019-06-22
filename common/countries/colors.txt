@@ -812,3 +812,7 @@ POA = {
 	color = rgb { 115 85 177 }
 	color_ui = rgb { 115 85 177 }
 }
+CAA = {
+	color = rgb { 95 125 217 }
+	color_ui = rgb { 95 125 217 }
+}

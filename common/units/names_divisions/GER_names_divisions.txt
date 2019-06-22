@@ -502,7 +502,7 @@ GER_MOT_01 =
 
 	can_use = {
 		OR = {
-			has_government = autocratic
+			has_government = autocratic has_government = fascism
 			OR = { has_government = democratic }
 		}
 	}
@@ -545,7 +545,7 @@ GER_MOT_02 =
 
 	for_countries = { GER FCF BAV SAX HAN WUR BAD HES WEI GAC GEA }
 
-	can_use = { OR = { has_government = autocratic } }
+	can_use = { OR = { has_government = autocratic has_government = fascism } }
 
 	division_types = { "motorized"  }
 
@@ -948,7 +948,7 @@ GER_SS_01 =
 	for_countries = { GER FCF BAV SAX HAN WUR BAD HES WEI GAC GEA }
 
 	can_use = {
-		OR = { has_government = autocratic }
+		OR = { has_government = autocratic has_government = fascism }
 	}
 
 	division_types = { "infantry" "motorized" "medium_armor" "mechanized" }
@@ -1005,7 +1005,7 @@ GER_MONINF_01 =
 
 	can_use = {
 		OR = {
-			has_government = autocratic
+			has_government = autocratic has_government = fascism
 			OR = { has_government = democratic }
 		}
 	}
@@ -1241,7 +1241,7 @@ GER_MONMOB_01 =
 
 	can_use = {
 		OR = {
-			has_government = autocratic
+			has_government = autocratic has_government = fascism
 			OR = { has_government = democratic }
 		}
 	}

@@ -262,7 +262,7 @@ tests = {
             has_global_flag = scw_over
             any_country = {
                 original_tag = SPR
-                OR = { has_government = autocratic }
+                OR = { has_government = autocratic has_government = fascism }
             }
         }
 
@@ -270,7 +270,7 @@ tests = {
             has_global_flag = scw_over
             any_country = {
                 original_tag = SPR
-                NOT = { OR = { has_government = autocratic } }
+                NOT = { OR = { has_government = autocratic has_government = fascism } }
             }
         }
     }

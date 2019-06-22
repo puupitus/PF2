@@ -197,7 +197,7 @@ tests = {
 
             any_country = {
                 original_tag = SPR
-                OR = { has_government = autocratic }
+                OR = { has_government = autocratic has_government = fascism }
                 exists = yes
 
                 # they got rid of idea then we dont care
@@ -210,7 +210,7 @@ tests = {
 
             any_country = {
                 original_tag = SPR
-                OR = { has_government = autocratic }
+                OR = { has_government = autocratic has_government = fascism }
                 exists = yes
 
                 has_idea = SPA_recovering_from_civil_war

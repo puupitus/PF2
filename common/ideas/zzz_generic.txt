@@ -105,7 +105,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = autocratic }
+				OR = { has_government = autocratic has_government = fascism }
 			}
 
 			removal_cost = -1
@@ -162,7 +162,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = autocratic }
+				OR = { has_government = autocratic has_government = fascism }
 			}
 
 			removal_cost = -1
@@ -221,7 +221,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = autocratic
+				has_government = autocratic has_government = fascism
 			}
 
 			removal_cost = -1
@@ -243,7 +243,7 @@ ideas = {
 				OR = {
 					AND = {
 						tag = GER
-						OR = { has_government = autocratic }
+						OR = { has_government = autocratic has_government = fascism }
 						SOV = {
 							OR = { has_government = socialism }
 						}
@@ -252,7 +252,7 @@ ideas = {
 						tag = SOV
 						OR = { has_government = socialism }
 						GER = {
-							OR = { has_government = autocratic }
+							OR = { has_government = autocratic has_government = fascism }
 						}
 					}
 				}
@@ -355,7 +355,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				OR = { has_government = autocratic }
+				OR = { has_government = autocratic has_government = fascism }
 			}
 
 			removal_cost = -1
@@ -378,7 +378,7 @@ ideas = {
 			allowed_civil_war = {
 				OR = {
 					OR = { has_government = socialism }
-					OR = { has_government = autocratic }
+					OR = { has_government = autocratic has_government = fascism }
 				}
 			}
 
@@ -401,7 +401,7 @@ ideas = {
 			allowed_civil_war = {
 				OR = {
 					OR = { has_government = socialism }
-					OR = { has_government = autocratic }
+					OR = { has_government = autocratic has_government = fascism }
 				}
 			}
 
@@ -424,7 +424,7 @@ ideas = {
 			allowed_civil_war = {
 				OR = {
 					OR = { has_government = socialism }
-					OR = { has_government = autocratic }
+					OR = { has_government = autocratic has_government = fascism }
 				}
 			}
 
@@ -491,7 +491,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = autocratic
+				has_government = autocratic has_government = fascism
 			}
 
 			cancel = {
@@ -634,7 +634,7 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT = {
-					OR = { has_government = autocratic }
+					OR = { has_government = autocratic has_government = fascism }
 				}
 			}
 

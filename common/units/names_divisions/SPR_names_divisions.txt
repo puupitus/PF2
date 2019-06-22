@@ -37,7 +37,7 @@ SPR_INF_01 =
 	for_countries = { SPR CAT }
 
 	can_use = {
-		NOT = { OR = { has_government = autocratic } }
+		NOT = { OR = { has_government = autocratic has_government = fascism } }
 	}
 
 	division_types = { "infantry" }
@@ -345,7 +345,7 @@ SPA_INF_01 =
 	for_countries = { SPR CAT }
 
 	can_use = {
-		OR = { has_government = autocratic }
+		OR = { has_government = autocratic has_government = fascism }
 	}
 
 	division_types = { "infantry" }
