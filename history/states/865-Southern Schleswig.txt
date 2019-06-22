@@ -3,8 +3,22 @@ state={
 	id=865
 	name="STATE_865"
 	provinces={
-		317 11366 
+		317 11366
 	}
-	manpower=0
+	manpower=200000
 	buildings_max_level_factor=1.000
+	state_category=town
+	history={
+		victory_points = {
+			317 1
+		}
+
+		owner = GER
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = GER
+
+	}
 }

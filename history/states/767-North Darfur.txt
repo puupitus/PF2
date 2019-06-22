@@ -9,7 +9,7 @@ state=
 
 	history= {
 		add_core_of = SUD
-		owner = LBA
+		owner = FNA
 		buildings = {
 			infrastructure = 0
 		}

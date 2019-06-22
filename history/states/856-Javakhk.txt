@@ -4,6 +4,22 @@ state={
 	provinces={
 		6669
 	}
-	manpower=0
+	manpower=50000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
+	history={
+		owner = GEO
+		victory_points = {
+			1599 5
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOV
+		add_core_of = GEO
+		add_core_of = ARM
+
+	}
+
 }

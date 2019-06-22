@@ -3,8 +3,37 @@ state={
 	id=854
 	name="STATE_854"
 	provinces={
-		575 3536 11483 11548 
+		575 3536 11483 11548
 	}
-	manpower=0
+	manpower=2000000
 	buildings_max_level_factor=1.000
+	state_category=city
+	resources={
+		steel=21.000
+		aluminium=4.000
+	}
+	history={
+		owner = FRA
+		victory_points = {
+			575 5
+		}
+		victory_points = {
+			11483 10
+		}
+		victory_points = {
+			11548 15
+		}
+		buildings = {
+			infrastructure = 6
+			dockyard = 1
+			air_base = 10
+			575 = {
+				naval_base = 6
+
+			}
+
+		}
+		add_core_of = FRA
+		add_core_of = BEL
+	}
 }

@@ -8,12 +8,9 @@ state={
 	}
 
 	history={
-		owner = KCH
+		owner = AUS
 		victory_points = {
-			9427 20 
-		}
-		victory_points = {
-			442 3 
+			9427 20
 		}
 		buildings = {
 			infrastructure = 4
@@ -26,9 +23,9 @@ state={
 	}
 
 	provinces={
-		9427 11398 
+		9427 11398
 	}
-	manpower=3692800
+	manpower=1692800
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=city
 }

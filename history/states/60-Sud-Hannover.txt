@@ -12,7 +12,7 @@ state={
 	state_category = large_city
 
 	history={
-		owner = SAX
+		owner = WEI
 		victory_points = { 538 1 }
 		victory_points = { 6524 5 }
 		buildings = {

@@ -3,8 +3,24 @@ state={
 	id=858
 	name="STATE_858"
 	provinces={
-		6500 11456 11562 
+		6500 11456 11562
 	}
-	manpower=0
+	manpower=700000
 	buildings_max_level_factor=1.000
+	state_category=city
+	history={
+		owner = WGR
+		add_core_of = HOL
+		add_core_of = WGR
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+
+		}
+
+		victory_points = {
+			11562 5
+		}
+
+	}
 }

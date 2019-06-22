@@ -2,22 +2,23 @@
 state={
 	id=763
 	name="STATE_763"
-	manpower = 2140234
-	state_category = city
+	manpower = 7340234
+	state_category = metropolis
 
 	history={
 		owner = DDR
 
 		victory_points = {
-			6332 10
+			6332 30
 		}
 
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
-			dockyard = 1
+			infrastructure = 7
+			industrial_complex = 3
+			arms_factory = 3
+			dockyard = 2
 			6332 = {
-				bunker = 1
+				bunker = 2
 
 			}
 			anti_air_building = 2

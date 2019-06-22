@@ -3,8 +3,28 @@ state={
 	id=857
 	name="STATE_857"
 	provinces={
-		222 310 319 341 6459 9275 
+		222 310 319 341 6459 9275
 	}
-	manpower=0
+	manpower=500000
 	buildings_max_level_factor=1.000
+	state_category=large_town
+	history={
+		owner = PLA
+
+		victory_points = {
+			310 1
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+
+			310 = {
+				bunker = 2
+
+			}
+
+		}
+		add_core_of = LAT
+
+	}
 }

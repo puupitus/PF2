@@ -9,7 +9,7 @@ state={
 	history={
 		owner = BAV
 		victory_points = {
-			11560 1 
+			11547 1
 		}
 		buildings = {
 			infrastructure = 3
@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		563 3558 11547 
+		563 3558 11547
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

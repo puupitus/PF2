@@ -3,8 +3,28 @@ state={
 	id=848
 	name="STATE_848"
 	provinces={
-		914 3448 6900 11767 
+		914 3448 6900 11767
 	}
-	manpower=0
+	manpower=350000
 	buildings_max_level_factor=1.000
+	state_category=town
+	history={
+		owner = GRE
+
+		victory_points = {
+			11767 1
+		}
+		buildings = {
+			infrastructure = 1
+			dockyard = 1
+		
+			11767 = {
+				naval_base = 4
+
+			}
+
+		}
+		add_core_of = ALB
+		add_core_of = GRE
+	}
 }

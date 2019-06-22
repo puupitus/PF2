@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = ANG
+		owner = POA
 		buildings = {
 			infrastructure = 1
 			

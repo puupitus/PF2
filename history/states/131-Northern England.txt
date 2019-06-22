@@ -10,7 +10,7 @@ state={
 	history={
 		owner = ENG
 		victory_points = {
-			351 10 
+			351 10
 		}
 		buildings = {
 			infrastructure = 4
@@ -21,26 +21,18 @@ state={
 				naval_base = 6
 
 			}
-			3311 = {
-				naval_base = 1
 
-			}
 
 		}
 		add_core_of = ENG
-		1939.1.1 = {
-			buildings = {
 
-			}
-
-		}
 
 	}
 
 	provinces={
-		219 351 6399 9285 11270 11299 11332 
+		219 351 6399 9285 11270 11299 11332
 	}
-	manpower=2128860
+	manpower=2068860
 	buildings_max_level_factor=1.000
 	state_category=city
 }

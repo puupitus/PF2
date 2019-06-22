@@ -3,8 +3,21 @@ state={
 	id=862
 	name="STATE_862"
 	provinces={
-		308 3174 6381 11291 
+		308 3174 6381 11291
 	}
-	manpower=0
+	manpower=140000
 	buildings_max_level_factor=1.000
+	state_category=town
+	history={
+		owner = EST
+		victory_points = {
+			3174 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = EST
+
+	}
 }

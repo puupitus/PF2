@@ -3,29 +3,18 @@ state={
 	id=29
 	name="STATE_29"
 	resources={
-		steel=42.000
-		aluminium=8.000
+		steel=21.000
+		aluminium=4.000
 	}
 
 	history={
 		owner = FRA
 		victory_points = {
-			575 5 
-		}
-		victory_points = {
-			11483 10 
-		}
-		victory_points = {
-			11548 15 
+			6504 5
 		}
 		buildings = {
-			infrastructure = 6
-			dockyard = 1
-			air_base = 10
-			575 = {
-				naval_base = 6
+			infrastructure = 4
 
-			}
 
 		}
 		add_core_of = FRA
@@ -33,9 +22,9 @@ state={
 	}
 
 	provinces={
-		3476 6504 9500 11606 
+		3476 6504 9500 11606
 	}
-	manpower=2976400
+	manpower=976400
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=large_town
 }

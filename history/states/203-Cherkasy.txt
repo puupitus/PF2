@@ -5,9 +5,9 @@ state={
 
 	history={
 		victory_points = {
-			488 5 
+			488 5
 		}
-		owner = UKR
+		owner = PLA
 		buildings = {
 			infrastructure = 3
 
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		458 488 3452 3468 9451 9491 11424 11438 11454 11530 
+		458 488 3452 3468 9451 11424 11438 11454
 	}
 	manpower=2405190
 	buildings_max_level_factor=1.000

@@ -1,4 +1,4 @@
-﻿capital = 448
+﻿capital = 450
 oob = "GEN_1930"
 set_research_slots = 3
 set_stability = 0.50
