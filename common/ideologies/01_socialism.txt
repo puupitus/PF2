@@ -21,7 +21,7 @@ socialism = {
 
   war_impact_on_world_tension = 0.75		#Commie less threatening
   faction_impact_on_world_tension = 0.5
-
+  can_be_boosted = no
   ai_neutral = yes
 
   rules = {
