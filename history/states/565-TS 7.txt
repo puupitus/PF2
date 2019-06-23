@@ -14,11 +14,12 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = RFE
+		add_core_of = BUR
 
 	}
 
 	provinces={
-		1761 4795 4868 7759 7854 10583 10654 12506 12538
+		1761 7759 7854 10583 10654 12506
 	}
 	manpower=195325
 	buildings_max_level_factor=1.000
