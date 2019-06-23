@@ -38,7 +38,7 @@ SPAN_INF_01 =
 {
 	name = "Infantry Division"
 
-	for_countries = { COS DOM ECU GUA HON MEX NIC PAN PAR PRU URG VEN SPA CAA }
+	for_countries = { COS DOM ECU GUA HON MEX NIC PAN PAR PRU URG VEN SPA CAA PBO USC }
 
 	can_use = { always = yes }
 
@@ -80,7 +80,7 @@ SPAN_INFB_01 =
 {
 	name = "Infantry Brigade"
 
-	for_countries = { COS DOM ECU GUA HON MEX NIC PAN PAR PRU URG VEN SPA CAA }
+	for_countries = { COS DOM ECU GUA HON MEX NIC PAN PAR PRU URG VEN SPA CAA PBO USC }
 
 	can_use = { always = yes }
 
@@ -590,7 +590,7 @@ SPAN_GAR_01 =
 {
 	name = "Garrison Division"
 
-	for_countries = { COS DOM ECU GUA HON MEX NIC PAN PAR PRU URG VEN SPA CAA }
+	for_countries = { COS DOM ECU GUA HON MEX NIC PAN PAR PRU URG VEN SPA CAA PBO USC }
 
 	can_use = { always = yes }
 

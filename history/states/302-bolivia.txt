@@ -9,7 +9,7 @@ state={
 	state_category = city
 
 	history={
-		owner = BOL
+		owner = PBO
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

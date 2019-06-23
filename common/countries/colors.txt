@@ -816,3 +816,11 @@ CAA = {
 	color = rgb { 95 125 217 }
 	color_ui = rgb { 95 125 217 }
 }
+PBO = {
+	color = rgb { 235 85 65 }
+	color_ui = rgb { 235 85 65 }
+}
+USC = {
+	color = rgb { 215 215 45 }
+	color_ui = rgb { 215 215 45 }
+}
