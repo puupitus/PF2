@@ -13,8 +13,8 @@ state={
 
 	history={
 		owner = WEI
-		victory_points = { 538 1 }
-		victory_points = { 6524 5 }
+		victory_points = { 538 5 }
+		victory_points = { 6524 1 }
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
