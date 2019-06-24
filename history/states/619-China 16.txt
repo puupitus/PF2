@@ -12,20 +12,22 @@ state={
 	}
 
 	history={
-		owner = SIK
-		
-		add_core_of = CHI
-add_core_of = PRC
+		owner = CHI
+add_core_of = CHI
 add_core_of = SIK
-add_core_of = XSM
-add_core_of = YUN
-add_core_of = GXC
-add_core_of = SHX
-add_core_of = FEN
-add_core_of = MAN
-add_core_of = GDN
-add_core_of = XIK
-add_core_of = GUO
+		
+		
+
+
+
+
+
+
+
+
+
+
+
 		
 		buildings = {
 			infrastructure = 1

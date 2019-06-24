@@ -8,18 +8,19 @@ state={
 	history=
 	{
 		owner = MAN
+		add_core_of = MAN
 		add_core_of = CHI
-add_core_of = PRC
-add_core_of = SIK
-add_core_of = XSM
-add_core_of = YUN
-add_core_of = GXC
-add_core_of = SHX
-add_core_of = FEN
-add_core_of = MAN
-add_core_of = GDN
-add_core_of = XIK
-add_core_of = GUO
+
+
+
+
+
+
+
+
+
+
+
 
 
 		victory_points = {
@@ -28,7 +29,7 @@ add_core_of = GUO
 		buildings = {
 			infrastructure = 3
 			air_base = 1
-			
+
 			1150 = {
 				naval_base = 5
 				coastal_bunker = 1

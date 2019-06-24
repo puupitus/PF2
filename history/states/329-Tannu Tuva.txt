@@ -12,9 +12,9 @@ state={
 	history={
 		owner = RUS
 		buildings = {
-			
-			
-			
+
+
+
 		}
 		victory_points = {
 			10627 3

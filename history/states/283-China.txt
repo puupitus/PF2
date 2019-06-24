@@ -6,40 +6,28 @@ state={
 	}
 
 	history={
-		owner = GUO
+		owner = CHI
+add_core_of = CHI
 
-		add_core_of = CHI
-add_core_of = PRC
-add_core_of = SIK
-add_core_of = XSM
-add_core_of = YUN
-add_core_of = GXC
-add_core_of = SHX
-add_core_of = FEN
-add_core_of = MAN
-add_core_of = GDN
-add_core_of = XIK
-add_core_of = GUO
+
+
+
+
+
+
+
+
+
+
+
+
 
 		buildings = {
 			infrastructure = 1
-			
+
 
 		}
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = {
-						has_dlc = "Waking the Tiger"
-					}
-
-				}
-				CHI = {
-					transfer_state = PREV
-
-				}
-			}
-		}
+		
 	}
 
 	provinces={
