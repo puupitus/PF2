@@ -6,12 +6,15 @@ state={
 	state_category = large_city
 
 	history={
-		owner = WGR
+		owner = WPH
 		victory_points = {
-			495 5
+			495 3
 		}
 		victory_points = {
 			6535 3
+		}
+		victory_points = {
+			564 5
 		}
 		#victory_points = {
 		#	9509 1
@@ -30,6 +33,6 @@ state={
 	}
 
 	provinces={
-		405 495 3355 3398 6535 6622 9443 9509 11233 11346 11431
+		405 495 564 3355 3398 6535 6622 9443 9509 9547 11233 11346 11431 11533
 	}
 }

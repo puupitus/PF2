@@ -824,3 +824,11 @@ USC = {
 	color = rgb { 215 215 45 }
 	color_ui = rgb { 215 215 45 }
 }
+UOS = {
+	color = rgb { 225 155 75 }
+	color_ui = rgb { 225 155 75 }
+}
+WPH = {
+	color = rgb { 45 45 225 }
+	color_ui = rgb { 45 45 225 }
+}
