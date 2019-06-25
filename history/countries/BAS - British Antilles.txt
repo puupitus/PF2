@@ -51,6 +51,18 @@ if = {
 }
 
 # Politics
+set_politics = {
+	ruling_party = democratic
+	last_election = "1928.5.15"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+  socialism = 0
+  democratic = 100
+  autocratic = 0
+  fascism = 0
+}
 
 # Leaders
  
