@@ -5,8 +5,8 @@ GER = {
 	color_ui = rgb { 138 155 116 }
 }
 ENG = {
-	color = rgb { 201 56 93 }
-	color_ui = rgb { 255 73 121 }
+	color = rgb { 151 16 43 }
+	color_ui = rgb { 151 16 43 }
 }
 SOV = {
 	color = rgb { 30 157 90 }
@@ -831,4 +831,8 @@ UOS = {
 WPH = {
 	color = rgb { 45 45 225 }
 	color_ui = rgb { 45 45 225 }
+}
+BRI = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
 }

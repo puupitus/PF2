@@ -10,7 +10,9 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = BRI
+add_core_of = BRI
+		add_core_of = ENG
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
@@ -20,7 +22,7 @@ state={
 		victory_points = {
 			9297 25
 		}
-		add_core_of = ENG
+
 		1939.1.1 = {
 			buildings = {
 

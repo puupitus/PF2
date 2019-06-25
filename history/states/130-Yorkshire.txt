@@ -11,7 +11,9 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = BRI
+add_core_of = BRI
+		add_core_of = ENG
 		victory_points = {
 			9379 15
 		}
@@ -31,7 +33,7 @@ state={
 				naval_base = 5
 			}
 		}
-		add_core_of = ENG
+
 		1939.1.1 = {
 			buildings = {
 

@@ -18,12 +18,12 @@
 # unordered - It's a list of historical division names that did not have a number. Regardless if such names happened in history or not
 #             this option is available here mainly for a mods.
 #
-# ordered - Is a list of all historical names. 
-#           Numbers must start from 1 and up. 
+# ordered - Is a list of all historical names.
+#           Numbers must start from 1 and up.
 #           Numbers can't repeat in one scope.
 #           If you script the name for this group, at the same number (for example in a mod in another file), the name will be override.
 #           All arguments between the brackets must be separated by spaces. Each argument is wrapped in "quotas".
-#           1st argument = The name. It must contain either: 
+#           1st argument = The name. It must contain either:
 #                          %d (for decimal number placement)
 #                          %s (for string number placement - ROMAN numbers like XIV).
 #           2nd argument is optional = A localizable text describing this historical division. The text will be visible in the tooltip
@@ -34,7 +34,7 @@ ENG_INF_01 =
 {
 	name = "Infantry Division"
 
-	for_countries = { ENG }
+	for_countries = { ENG BRI }
 
 	can_use = { always = yes }
 
@@ -45,7 +45,7 @@ ENG_INF_01 =
 
 	fallback_name = "%d Infantry Division"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -168,11 +168,11 @@ ENG_INF_01 =
 	}
 }
 
-ENG_CAV_01 = 
+ENG_CAV_01 =
 {
 	name = "Cavalry Division"
 
-	for_countries = { ENG }
+	for_countries = { ENG BRI }
 
 	can_use = { always = yes }
 
@@ -183,7 +183,7 @@ ENG_CAV_01 =
 
 	fallback_name = "%d Cavalry Division"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -210,11 +210,11 @@ ENG_CAV_01 =
 	}
 }
 
-ENG_CAV_02 = 
+ENG_CAV_02 =
 {
 	name = "Cavalry Brigade"
 
-	for_countries = { ENG }
+	for_countries = { ENG BRI }
 
 	can_use = { always = yes }
 
@@ -225,7 +225,7 @@ ENG_CAV_02 =
 
 	fallback_name = "%d Cavalry Brigade"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -251,11 +251,11 @@ ENG_CAV_02 =
 	}
 }
 
-ENG_MOT_01 = 
+ENG_MOT_01 =
 {
 	name = "Motor Division"
 
-	for_countries = { ENG }
+	for_countries = { ENG BRI }
 
 	can_use = { always = yes }
 
@@ -266,7 +266,7 @@ ENG_MOT_01 =
 
 	fallback_name = "%d Infantry Division"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -362,11 +362,11 @@ ENG_MOT_01 =
 	}
 }
 
-ENG_MEC_01 = 
+ENG_MEC_01 =
 {
 	name = "Mechanized Division"
 
-	for_countries = { ENG }
+	for_countries = { ENG BRI }
 
 	can_use = { always = yes }
 
@@ -377,7 +377,7 @@ ENG_MEC_01 =
 
 	fallback_name = "%d Infantry Division"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -473,11 +473,11 @@ ENG_MEC_01 =
 	}
 }
 
-ENG_ARM_01 = 
+ENG_ARM_01 =
 {
 	name = "Armoured Division"
 
-	for_countries = { ENG }
+	for_countries = { ENG BRI }
 
 	can_use = { always = yes }
 
@@ -488,7 +488,7 @@ ENG_ARM_01 =
 
 	fallback_name = "%d Armoured Division"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -503,7 +503,7 @@ ENG_ARM_01 =
 		11 = { "%dth Armoured Division" }
 		42 = { "%dnd Armoured Division" }
 		79 = { "%dth Armoured Division" }
-		5 = { "%dth Armoured Division" }		# phantom division	
+		5 = { "%dth Armoured Division" }		# phantom division
 		3 = { "%drd Armoured Division" }		# fictional divisions
 		4 = { "%dth Armoured Division" }
 		12 = { "%dth Armoured Division" }
@@ -528,11 +528,11 @@ ENG_ARM_01 =
 	}
 }
 
-ENG_ARM_02 = 
+ENG_ARM_02 =
 {
 	name = "Armoured Brigade"
 
-	for_countries = { ENG }
+	for_countries = { ENG BRI }
 
 	can_use = { always = yes }
 
@@ -543,7 +543,7 @@ ENG_ARM_02 =
 
 	fallback_name = "%d Army Tank Brigade"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -562,8 +562,8 @@ ENG_ARM_02 =
 		11 = { "%dth Army Tank Brigade" }
 		32 = { "%dnd Army Tank Brigade" }
 		31 = { "%dst Army Tank Brigade" }
-		5 = { "%dth Army Tank Brigade" }		
-		7 = { "%dth Army Tank Brigade" }		
+		5 = { "%dth Army Tank Brigade" }
+		7 = { "%dth Army Tank Brigade" }
 		4 = { "%dth Army Tank Brigade" }
 		12 = { "%dth Army Tank Brigade" }
 		13 = { "%dth Army Tank Brigade" }
@@ -582,11 +582,11 @@ ENG_ARM_02 =
 	}
 }
 
-ENG_PAR_01 = 
+ENG_PAR_01 =
 {
 	name = "Airborne Division"
 
-	for_countries = { ENG }
+	for_countries = { ENG BRI }
 
 	can_use = { always = yes }
 
@@ -597,7 +597,7 @@ ENG_PAR_01 =
 
 	fallback_name = "%d Airborne Division"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -624,11 +624,11 @@ ENG_PAR_01 =
 	}
 }
 
-ENG_MAR_01 = 
+ENG_MAR_01 =
 {
 	name = "Marine Division"
 
-	for_countries = { ENG }
+	for_countries = { ENG BRI }
 
 	can_use = { always = yes }
 
@@ -639,7 +639,7 @@ ENG_MAR_01 =
 
 	fallback_name = "%d Royal Marines Division"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -666,11 +666,11 @@ ENG_MAR_01 =
 	}
 }
 
-ENG_MNT_01 = 
+ENG_MNT_01 =
 {
 	name = "Mountain Division"
 
-	for_countries = { ENG }
+	for_countries = { ENG BRI }
 
 	can_use = { always = yes }
 
@@ -681,7 +681,7 @@ ENG_MNT_01 =
 
 	fallback_name = "%d Infantry Division"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -731,11 +731,11 @@ ENG_MNT_01 =
 	}
 }
 
-ENG_GAR_01 = 
+ENG_GAR_01 =
 {
 	name = "Garrison Division"
 
-	for_countries = { ENG }
+	for_countries = { ENG BRI }
 
 	can_use = { always = yes }
 
@@ -746,7 +746,7 @@ ENG_GAR_01 =
 
 	fallback_name = "%d Garrison Division"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
@@ -814,11 +814,11 @@ ENG_GAR_01 =
 	}
 }
 
-ENG_COL_01 = 
+ENG_COL_01 =
 {
 	name = "Colonial Division"
 
-	for_countries = { ENG }
+	for_countries = { ENG BRI }
 
 	can_use = { always = yes }
 
@@ -829,7 +829,7 @@ ENG_COL_01 =
 
 	fallback_name = "%d (Africa) Division"
 
-	# Names with numbers (only one number per entry). 
+	# Names with numbers (only one number per entry).
 	# It's okay to have gaps in numbering.
 	ordered =
 	{

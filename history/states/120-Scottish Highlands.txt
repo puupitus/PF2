@@ -10,7 +10,8 @@ state={
 
 	history={
 		add_core_of = SCO
-		owner = ENG
+		owner = BRI
+add_core_of = BRI
 		victory_points = {
 			11064 1
 		}
@@ -25,7 +26,7 @@ state={
 			}
 
 		}
-		add_core_of = ENG
+		
 
 	}
 
