@@ -3,17 +3,17 @@ state={
 	id=807
 	name="STATE_807"
 	provinces={
-		6619 9588 9591 11572 11574 6983
+	 606 6619 9588 9591 11574
 	}
 	manpower=600000
 	buildings_max_level_factor=1.000
 	state_category=town
 	history={
-		owner = BOS
-
+		owner = CRO
 		victory_points = {
-			6983 3
+			11574 1
 		}
+
 		buildings = {
 			infrastructure = 1
 
@@ -21,6 +21,8 @@ state={
 		}
 
 		add_core_of = BOS
+add_core_of = SER
+add_core_of = CRO
 
 	}
 }

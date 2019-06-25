@@ -11,9 +11,9 @@ state={
 	}
 
 	history={
-		owner = BOT
+		owner = UOS
 		buildings = {
-			
+
 		}
 		add_core_of = BOT
 		victory_points = {

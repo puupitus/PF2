@@ -7,9 +7,12 @@ state={
 	}
 
 	history={
-		owner = BOS
+		owner = SER
 		victory_points = {
 			11899 5
+		}
+		victory_points = {
+			6983 3
 		}
 		buildings = {
 			infrastructure = 3
@@ -19,13 +22,15 @@ state={
 		}
 
 		add_core_of = BOS
+add_core_of = SER
+add_core_of = CRO
 
 	}
 
 	provinces={
-		606 982 6799 11741 11899
+	 982 6799 6983 9922 11572 11741 11899
 	}
 	manpower=1057400
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_town
 }

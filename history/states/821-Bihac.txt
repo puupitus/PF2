@@ -2,19 +2,24 @@ state={
 	id=821
 	name="STATE_821"
 	provinces={
-		3985 6614 6957 9586 9922
+		3985 6614 6957 9586
 	}
 	manpower=300000
 	buildings_max_level_factor=1.000
 	state_category=rural
 	history={
-		owner = BOS
+		owner = CRO
+		victory_points = {
+			9586 1
+		}
 		buildings = {
 			infrastructure = 1
 
 		}
 
 		add_core_of = BOS
+add_core_of = SER
+add_core_of = CRO
 
 	}
 }
