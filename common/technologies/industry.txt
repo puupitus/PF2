@@ -241,7 +241,7 @@ technologies = {
 
 			modifier = {
 				factor = 0
-				NOT = { OR = { has_government = autocratic has_government = fascism } }
+				NOT = { OR = { has_government = neutrality has_government = nationalism } }
 			}
 		}
 		
@@ -272,7 +272,7 @@ technologies = {
 
 			modifier = {
 				factor = 0
-				NOT = { OR = { has_government = autocratic has_government = fascism } }
+				NOT = { OR = { has_government = neutrality has_government = nationalism } }
 			}
 		}
 		

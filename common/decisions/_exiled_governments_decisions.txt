@@ -272,7 +272,7 @@ governments_in_exile = {
 		    }
 		    FROM = {
 		    	OR = {
-		    		autocratic > 0.1
+		    		neutrality > 0.1
 		    		socialism > 0.1
 		    	}
 		    }
@@ -285,7 +285,7 @@ governments_in_exile = {
 		    }
 		    FROM = {
 		    	OR = {
-		    		autocratic > 0.05
+		    		neutrality > 0.05
 		    		socialism > 0.05
 		    	}
 		    }
@@ -298,7 +298,7 @@ governments_in_exile = {
 		    }
 		    FROM = {
 		    	OR = {
-		    		autocratic > 0.05
+		    		neutrality > 0.05
 		    		socialism > 0.05
 		    	}
 		    }

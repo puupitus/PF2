@@ -410,7 +410,7 @@
 		available =
 		{
 			has_dlc = "Waking the Tiger"
-			has_government = autocratic has_government = fascism
+			has_government = neutrality has_government = nationalism
 		}
 	}
 	icon = {
@@ -476,7 +476,7 @@
 		available =
 		{
 			has_dlc = "Waking the Tiger"
-			has_government = autocratic has_government = fascism
+			has_government = neutrality has_government = nationalism
 		}
 	}
 	icon = {

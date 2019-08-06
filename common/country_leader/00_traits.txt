@@ -103,7 +103,7 @@ leader_traits = {
 		}
 	}
 
-	autocratic_imperialist = {
+	neutrality_imperialist = {
 		random = no
 		war_support_factor = 0.05
 		stability_factor = 0.05
@@ -147,7 +147,7 @@ leader_traits = {
 
 	wallis_fancy_title = {
 		random = no
-		autocratic_drift = 0.05
+		neutrality_drift = 0.05
 
 		ai_will_do = {
 			factor = 1
@@ -214,7 +214,7 @@ leader_traits = {
 		sprite = 10
 		political_power_factor = -0.1
 		stability_factor = 0.05
-		autocratic_drift = 0.05
+		neutrality_drift = 0.05
 		consumer_goods_factor = -0.05
 
 		ai_will_do = {
@@ -245,7 +245,7 @@ leader_traits = {
 
 	humble = {
 		random = no
-		autocratic_drift = 0.05
+		neutrality_drift = 0.05
 		consumer_goods_factor = -0.05
 
 		ai_will_do = {
@@ -527,7 +527,7 @@ leader_traits = {
 		}
 	}
 
-	fascist_militia_leader = { #Nicolás Rodríguez Carrasco, probably others too could be used for random fascist leaders
+	nationalist_militia_leader = { #Nicolás Rodríguez Carrasco, probably others too could be used for random nationalist leaders
 		random = no
 		war_support_factor = 0.05
 		ai_will_do = {
@@ -593,7 +593,7 @@ leader_traits = {
 	the_silver_president = { #Juan Andreu
 		random = no
 		consumer_goods_factor = -0.05
-		autocratic_acceptance = 50
+		neutrality_acceptance = 50
 		ai_will_do = {
 			factor = 1
 		}
@@ -630,9 +630,9 @@ leader_traits = {
 		}
 	}
 
-	fascist_sympathies = {
+	nationalist_sympathies = {
 		random = no
-		autocratic_acceptance = 70
+		neutrality_acceptance = 70
 
 		ai_will_do = {
 			factor = 1
@@ -746,7 +746,7 @@ leader_traits = {
 	}
 
 	incognito = {
-		autocratic_drift = 0.1
+		neutrality_drift = 0.1
 		drift_defence_factor = 0.15
 	}
 
@@ -832,7 +832,7 @@ leader_traits = {
 		random = no
 		political_power_factor = 0.05
 		socialism_drift = -0.01
-		autocratic_drift = -0.01
+		neutrality_drift = -0.01
 		democratic_drift = -0.01
 	}
 
@@ -840,7 +840,7 @@ leader_traits = {
 		random = no
 		political_power_factor = 0.1
 		socialism_drift = -0.02
-		autocratic_drift = -0.02
+		neutrality_drift = -0.02
 		democratic_drift = -0.02
 	}
 
@@ -853,7 +853,7 @@ leader_traits = {
 	leider = {
 		random = no
 		war_support_factor = 0.1
-		autocratic_acceptance = 50
+		neutrality_acceptance = 50
 	}
 
 	comintern_workhorse = {
@@ -893,11 +893,11 @@ leader_traits = {
 		}
 	}
 
-	fascist_demagogue = {
+	nationalist_demagogue = {
 		random = no
 		# Boosts Fascism
 		sprite = 13
-		autocratic_drift = 0.1
+		neutrality_drift = 0.1
 
 		ai_will_do = {
 			factor = 1
@@ -908,7 +908,7 @@ leader_traits = {
 		random = no
 		# Boosts Unaligned
 		sprite = 13
-		autocratic_drift = 0.1
+		neutrality_drift = 0.1
 
 		ai_will_do = {
 			factor = 1
@@ -920,7 +920,7 @@ leader_traits = {
 		random = no
 		sprite = 13
 
-		autocratic_drift = 0.1
+		neutrality_drift = 0.1
 		political_power_factor = 0.15
 
 		ai_will_do = {
@@ -944,7 +944,7 @@ leader_traits = {
 		random = no
 		sprite = 13
 
-		autocratic_drift = 0.1
+		neutrality_drift = 0.1
 		generate_wargoal_tension = -0.5
 		justify_war_goal_time = -0.25
 
@@ -1379,7 +1379,7 @@ leader_traits = {
 		sprite = 13
 
 		war_support_factor = 0.1
-		autocratic_drift = 0.1
+		neutrality_drift = 0.1
 
 		ai_will_do = {
 			factor = 1
