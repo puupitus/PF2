@@ -524,3 +524,816 @@ HUN = {
 color = rgb { 0 0 0 }
 color_ui = rgb { 0 0 0 }
 }
+
+AHV = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+ALS = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+ANR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+ARA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+BLI = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+CLD = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+CRS = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+FRI = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+ICE = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+FAR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+IDE = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+INA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+IND = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+ING = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+INS = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+IOM = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+IRE = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+IRQ = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+ISR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+ITA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+IVO = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+JAB = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+JAM = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+JAP = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+JEF = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+JOR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+JSP = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+JUL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KAB = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KAL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KAR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KAZ = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KEN = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KHI = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KKP = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KOK = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KOL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KOM = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KOR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KUB = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KUR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KUW = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+KYR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+LAK = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+LAO = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+LAT = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+LBA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+LEB = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+LIB = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+LIG = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+LIT = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+LOM = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+LUS = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+LUX = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MAC = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MAD = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MAL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MAN = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MAR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MAY = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MEC = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MEN = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MEX = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MLD = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MLI = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MLT = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MLW = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MNT = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MOL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MON = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MOR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MRC = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MRD = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MRT = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MSK = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+MZB = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NAK = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NEG = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NEP = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NEW = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NAF = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NGA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NGR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NIC = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NIR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NMB = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NMD = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NOR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NOS = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NOV = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NSC = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+NZL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+OCC = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+OLD = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+OMA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PAK = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PAL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PAN = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PAP = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PAR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PER = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PHI = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PIE = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PNG = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+POA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+POL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+POM = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PON = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+POR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PRC = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PRU = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PUD = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+PUE = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+QAT = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+QUE = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+RAJ = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+RCG = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+RFE = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+RGR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+RIO = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+RNG = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+ROM = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+RUS = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+RUS = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+RWA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+RYU = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SAA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SAF = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SAO = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SAQ = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SAR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SAS = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SAU = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SAV = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SAX = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SCO = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SDL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SEN = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SER = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SHX = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SIA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SIC = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SIE = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SIK = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SLO = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SLV = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SOM = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SON = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SOV = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SPR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SRL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SUD = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SUR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SWE = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SWI = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+SYR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TAJ = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TAN = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TAT = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TCS = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TEX = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TIB = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TLI = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TMS = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TOG = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TRI = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TUN = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TUR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+TZN = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+UAE = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+UDM = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+UGA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+UKR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+UBS = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+URU = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+USA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+USB = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+USC = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+UTA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+UZB = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+VAL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+VEN = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+VNC = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+VER = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+VGA = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+VIN = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+VOL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+WAL = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+WEI = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+WES = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+WGR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+WLS = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+WPH = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+WUR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+XIK = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+XSM = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+YAK = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+YUG = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+YUN = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+ZAK = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+ZAM = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+ZIM = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+YEM = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
