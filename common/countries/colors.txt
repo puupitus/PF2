@@ -1017,10 +1017,6 @@ RUS = {
 color = rgb { 0 0 0 }
 color_ui = rgb { 0 0 0 }
 }
-RUS = {
-color = rgb { 0 0 0 }
-color_ui = rgb { 0 0 0 }
-}
 RWA = {
 color = rgb { 0 0 0 }
 color_ui = rgb { 0 0 0 }
